@@ -1,7 +1,7 @@
 # ESP-24V-16CH
 ESP32 based board with 16x optoisolated 24 VDC active high inputs, and 16x open collector 24 VDC outputs.
 
-The outputs are based on the MMBT2222A SMD transistor and are rated for a maximum of 600mA, although it is recommended to limit the current to 350 mA for continous operation. If driving inductive loads like relays, a freewheeling diode or a snubber circuit should be used to limit the switching transients and protect the transistors.
+The outputs are based on the MMBT2222A SMD transistor and are rated for a maximum of 500mA, although it is recommended to limit the current to 350 mA for continous operation. If driving inductive loads like relays, a freewheeling diode or a snubber circuit should be used to limit the switching transients and protect the transistors.
 
 Also included is a 1-Wire interface for external sensors. This interface can be switched to connect either to GPIO16 for use with a bitbang driver like the one available in Tasmota, or to a DS2482S-100 1-Wire master for building more complex networks. Selection is made via SW2, according to the description printed on the PCB. Attention: only one dip-switch can be on at any given time.
 
@@ -13,13 +13,15 @@ The dimensions were chosen for mounting on a PCB DIN rail holder from the Brazil
 | :--- | :--- |
 | **Microcontroller** | ESP32-WROOM-32UE-N16 (16MB flash) |
 | **Inputs** | 16x 24VDC (optoisolated, active high) |
-| **Outputs** | 16x 24VDC (open collector, 350mA cont. / 600mA peak) |
+| **Outputs** | 16x 24VDC (open collector, 350mA cont. / 500mA peak) |
 | **Peripherals** | 1-Wire Interface, GPIO or 1-Wire master |
 | **Form Factor** | Metaltex DIN Rail Compatible |
 
 ![ESP-24V-16CH V5.2](https://github.com/thermseekr/ESP-24v-16ch/raw/main/V5/esp-24v-16ch-v5.2.0.png)
 
 ## VERSION HISTORY
+
+ESP-24V-16CH V6.0 - 2026/06/02 - A separate GND plane and connector for optocouplers inputs was included. New ethernet connector, with tab up for easier integration with DIN holders from Metaltex. Connectors were replaced for 3.5mm pitch versions for easier wiring installation in the field. The board had to grow 10mm to accomodate these. SMD capacitor sizes were revised for better performance. Transistor base current for the ouputs was increased from 2,3mA to 5,5mA to ensure better saturation. Now, higher loads can be driven without the risk of putting the transistor in the active region. The MCP23017 expander for the inputs was replaced with 2x MCP23008 to avoid the infamous MCP23017 input bug. Rpacks were replaced for individual resistors for more flexible layout. Talking about layout, it was fully revised with better impedance matching for LAN8710 Tx/Rx signal traces. At last, the loads for 3V3A and 3V3LAN rails were revised.
 
 ESP-24V-16CH V5.2 - 2026/02/10 - Pins GPA7 and GPB7 of the input MCP23017 were disabled as recommended by Microchip. Inputs 1 and 2 were assigned to GPIO34 and GPIO35 on the ESP32. The mentioned pins were pulled down to 0V and disabled on the mcp23x.dat template. Templates and GPIO assignment information on the schematics were updated.
 
