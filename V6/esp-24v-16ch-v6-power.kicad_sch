@@ -8678,7 +8678,7 @@
 		(dnp no)
 		(uuid "2eba6e2e-f9bf-4d4b-a87f-18c5c7cdcd1f")
 		(property "Reference" "D3"
-			(at 107.0611 95.25 0)
+			(at 106.68 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8689,7 +8689,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 107.0611 97.79 0)
+			(at 106.68 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8780,14 +8780,14 @@
 			)
 		)
 		(property "LCSC Part #" "C7519"
-			(at 105.41 102.87 0)
-			(hide yes)
+			(at 106.68 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Mfr" "STMicroelectronics"
