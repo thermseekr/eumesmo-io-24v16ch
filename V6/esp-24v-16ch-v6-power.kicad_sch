@@ -14012,7 +14012,7 @@
 		(dnp no)
 		(uuid "ca5770ac-d0fc-4158-b3d0-f2f871a9f475")
 		(property "Reference" "C8"
-			(at 168.91 99.7013 0)
+			(at 168.91 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14023,7 +14023,7 @@
 			)
 		)
 		(property "Value" "22uF/10V"
-			(at 168.91 108.5913 0)
+			(at 168.91 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14100,7 +14100,7 @@
 			)
 		)
 		(property "Technology" "Ceramic X5R"
-			(at 168.91 111.1313 0)
+			(at 168.91 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14111,7 +14111,7 @@
 			)
 		)
 		(property "LCSC Part #" "C5672"
-			(at 168.91 113.6713 0)
+			(at 168.91 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

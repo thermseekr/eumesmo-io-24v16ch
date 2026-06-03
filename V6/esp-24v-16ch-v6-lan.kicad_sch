@@ -3811,6 +3811,17 @@
 		)
 		(uuid "83e5fe50-e531-415c-a277-e32309cba2e3")
 	)
+	(text "GREEN LED: LNK/ACT\nYELLOW LED: SPEED,\nON AT 100Mbps"
+		(exclude_from_sim no)
+		(at 55.88 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e469a9c-b0a5-484d-8417-d755d976dcb6")
+	)
 	(text "RESISTORS: 62,5mW WHERE NOT SPECIFIED"
 		(exclude_from_sim no)
 		(at 179.07 170.18 0)
@@ -5672,7 +5683,7 @@
 		)
 		(uuid "ff2a712d-4164-4295-8162-3dc266f6cedf")
 	)
-	(label "ETHLEDY"
+	(label "ETHLEDG"
 		(at 199.39 81.28 0)
 		(effects
 			(font
@@ -5692,7 +5703,7 @@
 		)
 		(uuid "1251b317-7ce6-4200-ae34-5d52838a29cf")
 	)
-	(label "ETHLEDYA"
+	(label "ETHLEDGA"
 		(at 50.8 134.62 90)
 		(effects
 			(font
@@ -5722,7 +5733,7 @@
 		)
 		(uuid "24825da4-4f75-4290-9bec-1fa15b2c8103")
 	)
-	(label "ETHLEDGA"
+	(label "ETHLEDYA"
 		(at 43.18 138.43 90)
 		(effects
 			(font
@@ -5812,7 +5823,7 @@
 		)
 		(uuid "b3244796-149b-4490-b9dc-f1be0eba3606")
 	)
-	(label "ETHLEDGK"
+	(label "ETHLEDYK"
 		(at 199.39 83.82 0)
 		(effects
 			(font
@@ -11193,7 +11204,7 @@
 		(dnp no)
 		(uuid "cd29bfd0-65d4-4cf6-9655-1f0c5505f874")
 		(property "Reference" "D7"
-			(at 252.73 69.85 0)
+			(at 252.73 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11203,7 +11214,7 @@
 			)
 		)
 		(property "Value" "ESDS314DBV"
-			(at 252.73 72.39 0)
+			(at 252.73 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11279,8 +11290,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1847859"
-			(at 252.73 82.55 0)
-			(hide yes)
+			(at 252.73 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
