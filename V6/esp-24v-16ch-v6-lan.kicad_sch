@@ -3873,12 +3873,6 @@
 		(uuid "13bbf4ab-8e8a-4dfb-a8d4-2b42f8c85075")
 	)
 	(junction
-		(at 232.41 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14fb4201-90b5-4288-8047-c9d5f1e9ee29")
-	)
-	(junction
 		(at 234.95 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3889,12 +3883,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27385313-fd2c-46d3-9d3c-145ded8439ab")
-	)
-	(junction
-		(at 229.87 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "278f1d93-1e1d-4397-964c-9694f470c9f6")
 	)
 	(junction
 		(at 73.66 160.02)
@@ -3913,12 +3901,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f0944a5-e7c3-42cb-b7a7-452bf7c74f00")
-	)
-	(junction
-		(at 237.49 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "58379b4d-2917-4411-9da9-67f0155fa18f")
 	)
 	(junction
 		(at 154.94 31.75)
@@ -3963,6 +3945,12 @@
 		(uuid "88321b0f-cbb7-4f6f-b3a7-f56379236d0a")
 	)
 	(junction
+		(at 232.41 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9389a21f-f44f-4c69-b446-0c9c57954a22")
+	)
+	(junction
 		(at 59.69 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3975,16 +3963,16 @@
 		(uuid "ab1e69ac-d9fc-4fe9-9668-97278d46e410")
 	)
 	(junction
+		(at 229.87 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b0daa90d-bd15-4df8-8208-dcefce2381fc")
+	)
+	(junction
 		(at 80.01 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1ebfff2-9473-4cdb-9510-7a9a6105239c")
-	)
-	(junction
-		(at 232.41 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd60bfd7-ae19-40e7-8172-5f80818949b7")
 	)
 	(junction
 		(at 261.62 116.84)
@@ -4005,6 +3993,12 @@
 		(uuid "c6f720f1-5be5-4b86-840b-e5f8cd39f1ea")
 	)
 	(junction
+		(at 232.41 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d23b3bae-39c8-4697-9e9a-86c6de129a54")
+	)
+	(junction
 		(at 48.26 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4017,7 +4011,13 @@
 		(uuid "dda1340c-95d6-48a9-990b-8524acd5c8ac")
 	)
 	(junction
-		(at 237.49 77.47)
+		(at 237.49 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddc0fa0f-d77a-43f2-ac7a-dddfc01f0879")
+	)
+	(junction
+		(at 237.49 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee1f07a2-7b6e-4004-bfa1-2960d3dd2aeb")
@@ -4078,7 +4078,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 87.63) (xy 232.41 147.32)
+			(xy 232.41 63.5) (xy 232.41 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4168,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 82.55) (xy 242.57 82.55)
+			(xy 241.3 93.98) (xy 242.57 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4185,6 +4185,16 @@
 			(type default)
 		)
 		(uuid "0e1008ed-f457-42ba-b9c5-2fc0e39b6663")
+	)
+	(wire
+		(pts
+			(xy 232.41 63.5) (xy 267.97 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15a04904-eb32-446a-adad-4bc8b226c885")
 	)
 	(wire
 		(pts
@@ -4248,7 +4258,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 77.47) (xy 237.49 127)
+			(xy 237.49 88.9) (xy 237.49 127)
 		)
 		(stroke
 			(width 0)
@@ -4375,6 +4385,16 @@
 			(type default)
 		)
 		(uuid "2ccb31e1-0b0f-48c0-a0e9-1b2c43037069")
+	)
+	(wire
+		(pts
+			(xy 229.87 99.06) (xy 242.57 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f0f06f8-05a0-4240-aa4e-93be07a8882d")
 	)
 	(wire
 		(pts
@@ -4518,7 +4538,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 77.47) (xy 265.43 77.47)
+			(xy 262.89 88.9) (xy 265.43 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4538,7 +4558,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 87.63) (xy 267.97 60.96)
+			(xy 267.97 99.06) (xy 267.97 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4715,6 +4735,16 @@
 			(type default)
 		)
 		(uuid "65bc8d8d-a7e8-40fd-a6ed-4390f50a285c")
+	)
+	(wire
+		(pts
+			(xy 229.87 99.06) (xy 229.87 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66180fcb-0114-4704-8452-89ceb8755ef3")
 	)
 	(wire
 		(pts
@@ -4898,7 +4928,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 68.58) (xy 237.49 77.47)
+			(xy 237.49 68.58) (xy 237.49 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5008,7 +5038,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 77.47) (xy 265.43 66.04)
+			(xy 265.43 88.9) (xy 265.43 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5188,7 +5218,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 83.82) (xy 241.3 82.55)
+			(xy 241.3 95.25) (xy 241.3 93.98)
 		)
 		(stroke
 			(width 0)
@@ -5418,16 +5448,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 60.96) (xy 229.87 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6f436a1-c219-4e16-9b1b-f44b4d5b71a9")
-	)
-	(wire
-		(pts
 			(xy 248.92 45.72) (xy 248.92 46.99)
 		)
 		(stroke
@@ -5578,7 +5598,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 77.47) (xy 242.57 77.47)
+			(xy 237.49 88.9) (xy 242.57 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5598,16 +5618,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 87.63) (xy 242.57 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5c94a76-52a6-4dd0-87f4-79dc92001052")
-	)
-	(wire
-		(pts
 			(xy 179.07 38.1) (xy 184.15 38.1)
 		)
 		(stroke
@@ -5618,7 +5628,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 60.96) (xy 229.87 137.16)
+			(xy 229.87 60.96) (xy 229.87 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5645,16 +5655,6 @@
 			(type default)
 		)
 		(uuid "ea241e79-3bb9-4cdd-8c94-108dafec94a3")
-	)
-	(wire
-		(pts
-			(xy 232.41 63.5) (xy 232.41 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebf3f239-c155-4174-b9a3-a3aa8e2586f4")
 	)
 	(wire
 		(pts
@@ -5788,7 +5788,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 87.63) (xy 267.97 87.63)
+			(xy 262.89 99.06) (xy 267.97 99.06)
 		)
 		(stroke
 			(width 0)
@@ -8882,7 +8882,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 241.3 83.82 0)
+		(at 241.3 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8892,7 +8892,7 @@
 		(dnp no)
 		(uuid "8714790f-1160-468e-a0e0-4284086a1c9c")
 		(property "Reference" "#PWR068"
-			(at 241.3 90.17 0)
+			(at 241.3 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8903,7 +8903,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.427 88.2142 0)
+			(at 241.427 99.6442 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8914,7 +8914,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 83.82 0)
+			(at 241.3 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8925,7 +8925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 83.82 0)
+			(at 241.3 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8936,7 +8936,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 241.3 83.82 0)
+			(at 241.3 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11131,7 +11131,7 @@
 	)
 	(symbol
 		(lib_id "Tales:ESDS314DBV")
-		(at 252.73 82.55 0)
+		(at 252.73 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11141,7 +11141,7 @@
 		(dnp no)
 		(uuid "cd29bfd0-65d4-4cf6-9655-1f0c5505f874")
 		(property "Reference" "D7"
-			(at 252.73 68.58 0)
+			(at 252.73 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11151,7 +11151,7 @@
 			)
 		)
 		(property "Value" "ESDS314DBV"
-			(at 252.73 71.12 0)
+			(at 252.73 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11161,7 +11161,7 @@
 			)
 		)
 		(property "Footprint" "Tales:SOT-23-5"
-			(at 254 91.44 0)
+			(at 254 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11172,7 +11172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11183,7 +11183,7 @@
 			)
 		)
 		(property "Description" "Data-line surge and ESD protection diode array"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11194,7 +11194,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11205,7 +11205,7 @@
 			)
 		)
 		(property "Case" "SOT-23-5"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11216,7 +11216,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11227,7 +11227,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1847859"
-			(at 252.73 73.66 0)
+			(at 252.73 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11237,7 +11237,7 @@
 			)
 		)
 		(property "Mfr" "Texas Instruments"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11248,7 +11248,7 @@
 			)
 		)
 		(property "Mfr PN" "ESDS314DBVR"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11259,7 +11259,7 @@
 			)
 		)
 		(property "Technology" ""
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11270,7 +11270,7 @@
 			)
 		)
 		(property "Vendor PN" "C1847859"
-			(at 252.73 82.55 0)
+			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

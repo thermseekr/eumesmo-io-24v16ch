@@ -2639,7 +2639,7 @@
 		(uuid "81710610-87cc-4fe8-9a40-145c8a9f2d78")
 	)
 	(junction
-		(at 151.13 182.88)
+		(at 163.83 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9bb4ed7a-cd6d-4ec3-84fb-d31ad4ac5283")
@@ -2669,7 +2669,7 @@
 		(uuid "cc83d7c9-8da0-448f-85ac-9534c634d9a8")
 	)
 	(junction
-		(at 165.1 182.88)
+		(at 177.8 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d22b6136-080c-459b-aaf5-9891f485407e")
@@ -2717,7 +2717,7 @@
 		(uuid "fad8410b-dd8b-4a51-88e2-ca7e5c8d166c")
 	)
 	(junction
-		(at 190.5 185.42)
+		(at 203.2 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fbe50fee-5470-487b-9462-c031c107fa14")
@@ -2906,7 +2906,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 185.42) (xy 190.5 185.42)
+			(xy 156.21 185.42) (xy 203.2 185.42)
 		)
 		(stroke
 			(width 0)
@@ -2966,7 +2966,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 185.42) (xy 204.47 185.42)
+			(xy 203.2 185.42) (xy 207.01 185.42)
 		)
 		(stroke
 			(width 0)
@@ -3056,7 +3056,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 189.23) (xy 144.78 187.96)
+			(xy 157.48 189.23) (xy 157.48 187.96)
 		)
 		(stroke
 			(width 0)
@@ -3266,7 +3266,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 182.88) (xy 165.1 189.23)
+			(xy 177.8 182.88) (xy 177.8 189.23)
 		)
 		(stroke
 			(width 0)
@@ -3316,7 +3316,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 180.34) (xy 151.13 182.88)
+			(xy 163.83 180.34) (xy 163.83 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3326,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 195.58) (xy 177.8 196.85)
+			(xy 190.5 195.58) (xy 190.5 196.85)
 		)
 		(stroke
 			(width 0)
@@ -3346,7 +3346,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 185.42) (xy 190.5 187.96)
+			(xy 203.2 185.42) (xy 203.2 187.96)
 		)
 		(stroke
 			(width 0)
@@ -3416,7 +3416,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 182.88) (xy 165.1 182.88)
+			(xy 190.5 182.88) (xy 177.8 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3586,7 +3586,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 182.88) (xy 143.51 182.88)
+			(xy 163.83 182.88) (xy 156.21 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3806,7 +3806,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 187.96) (xy 143.51 187.96)
+			(xy 157.48 187.96) (xy 156.21 187.96)
 		)
 		(stroke
 			(width 0)
@@ -3826,7 +3826,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 182.88) (xy 151.13 182.88)
+			(xy 177.8 182.88) (xy 163.83 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3876,7 +3876,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 182.88) (xy 151.13 189.23)
+			(xy 163.83 182.88) (xy 163.83 189.23)
 		)
 		(stroke
 			(width 0)
@@ -4036,7 +4036,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 182.88) (xy 177.8 187.96)
+			(xy 190.5 182.88) (xy 190.5 187.96)
 		)
 		(stroke
 			(width 0)
@@ -4116,7 +4116,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 194.31) (xy 151.13 196.85)
+			(xy 163.83 194.31) (xy 163.83 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4236,7 +4236,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 194.31) (xy 165.1 196.85)
+			(xy 177.8 194.31) (xy 177.8 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4296,7 +4296,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 195.58) (xy 190.5 196.85)
+			(xy 203.2 195.58) (xy 203.2 196.85)
 		)
 		(stroke
 			(width 0)
@@ -4306,7 +4306,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 185.42) (xy 218.44 185.42)
+			(xy 214.63 185.42) (xy 218.44 185.42)
 		)
 		(stroke
 			(width 0)
@@ -5251,7 +5251,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 165.1 191.77 0)
+		(at 177.8 191.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5261,7 +5261,7 @@
 		(dnp no)
 		(uuid "16d58df6-a2fa-4bcb-ae1d-740816672830")
 		(property "Reference" "C31"
-			(at 165.1 201.93 0)
+			(at 177.8 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5271,7 +5271,7 @@
 			)
 		)
 		(property "Value" "100nF/50V"
-			(at 165.1 204.47 0)
+			(at 177.8 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5281,7 +5281,7 @@
 			)
 		)
 		(property "Footprint" "Tales:C_0402_1005Metric"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5292,7 +5292,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5303,7 +5303,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5314,7 +5314,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5325,7 +5325,7 @@
 			)
 		)
 		(property "Technology" "Ceramic X7R"
-			(at 165.1 207.01 0)
+			(at 177.8 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5335,7 +5335,7 @@
 			)
 		)
 		(property "LCSC Part #" "C307331"
-			(at 165.1 209.55 0)
+			(at 177.8 209.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5345,7 +5345,7 @@
 			)
 		)
 		(property "Mfr" "Samsung"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5356,7 +5356,7 @@
 			)
 		)
 		(property "Mfr PN" "CL05B104KB54PNC"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5367,7 +5367,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5378,7 +5378,7 @@
 			)
 		)
 		(property "Vendor PN" "C307331"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5389,7 +5389,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5400,7 +5400,7 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 165.1 191.77 0)
+			(at 177.8 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5427,7 +5427,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 138.43 185.42 0)
+		(at 151.13 185.42 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5439,7 +5439,7 @@
 		(fields_autoplaced yes)
 		(uuid "174d922b-4134-4158-bb77-5884397d75f5")
 		(property "Reference" "J9"
-			(at 138.43 176.53 0)
+			(at 151.13 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5449,7 +5449,7 @@
 			)
 		)
 		(property "Value" "SENSORS"
-			(at 138.43 179.07 0)
+			(at 151.13 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5459,7 +5459,7 @@
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Wago_250-203_1x03_P3.5mm_45Degree"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5470,7 +5470,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5481,7 +5481,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5492,7 +5492,7 @@
 			)
 		)
 		(property "Case" ""
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5503,7 +5503,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5514,7 +5514,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2898745"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5525,7 +5525,7 @@
 			)
 		)
 		(property "Mfr" "DIBO"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5536,7 +5536,7 @@
 			)
 		)
 		(property "Mfr PN" "DB141V-2.54-3P-GN"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5547,7 +5547,7 @@
 			)
 		)
 		(property "Technology" ""
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +5558,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5569,7 +5569,7 @@
 			)
 		)
 		(property "Vendor PN" "C2898745"
-			(at 138.43 185.42 0)
+			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5599,7 +5599,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 177.8 196.85 0)
+		(at 190.5 196.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5610,7 +5610,7 @@
 		(fields_autoplaced yes)
 		(uuid "17a65ac7-3e01-4cdf-981d-a95a7eaf70e7")
 		(property "Reference" "#PWR084"
-			(at 177.8 203.2 0)
+			(at 190.5 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5621,7 +5621,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 177.8 201.93 0)
+			(at 190.5 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5632,7 +5632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 177.8 196.85 0)
+			(at 190.5 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5643,7 +5643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 196.85 0)
+			(at 190.5 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5654,7 +5654,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 177.8 196.85 0)
+			(at 190.5 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5678,7 +5678,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 208.28 185.42 90)
+		(at 210.82 185.42 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5689,7 +5689,7 @@
 		(fields_autoplaced yes)
 		(uuid "18ab6932-9566-4f5d-a844-d3c5a29beb26")
 		(property "Reference" "R38"
-			(at 208.28 176.53 90)
+			(at 210.82 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5699,7 +5699,7 @@
 			)
 		)
 		(property "Value" "33R"
-			(at 208.28 179.07 90)
+			(at 210.82 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5709,7 +5709,7 @@
 			)
 		)
 		(property "Footprint" "Tales:R_0402_1005Metric"
-			(at 208.534 184.404 90)
+			(at 211.074 184.404 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5720,7 +5720,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5731,7 +5731,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5742,7 +5742,7 @@
 			)
 		)
 		(property "Case" "0402/1005"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5753,7 +5753,7 @@
 			)
 		)
 		(property "LCSC Part #" "C25105"
-			(at 208.28 181.61 90)
+			(at 210.82 181.61 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5763,7 +5763,7 @@
 			)
 		)
 		(property "Mfr" "Uniroyal"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5774,7 +5774,7 @@
 			)
 		)
 		(property "Mfr PN" "0402WGF330JTCE"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5785,7 +5785,7 @@
 			)
 		)
 		(property "Technology" "1%"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5796,7 +5796,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5807,7 +5807,7 @@
 			)
 		)
 		(property "Vendor PN" "C25105"
-			(at 208.28 185.42 0)
+			(at 210.82 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5818,7 +5818,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 208.28 185.42 90)
+			(at 210.82 185.42 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6105,7 +6105,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 151.13 191.77 0)
+		(at 163.83 191.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6115,7 +6115,7 @@
 		(dnp no)
 		(uuid "3b5ba956-c81c-4c4a-be5d-0b9a8e92db1a")
 		(property "Reference" "C30"
-			(at 151.13 201.93 0)
+			(at 163.83 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6125,7 +6125,7 @@
 			)
 		)
 		(property "Value" "10uF/25V"
-			(at 151.13 204.47 0)
+			(at 163.83 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6135,7 +6135,7 @@
 			)
 		)
 		(property "Footprint" "Tales:C_0805_2012Metric"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6146,7 +6146,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6157,7 +6157,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6168,7 +6168,7 @@
 			)
 		)
 		(property "Mfr" "Samsung"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6179,7 +6179,7 @@
 			)
 		)
 		(property "Mfr PN" "CL21A106KAYNNNE"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6190,7 +6190,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6201,7 +6201,7 @@
 			)
 		)
 		(property "LCSC Part #" "C15850"
-			(at 151.13 209.5438 0)
+			(at 163.83 209.5438 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6211,7 +6211,7 @@
 			)
 		)
 		(property "Technology" "Ceramic X5R"
-			(at 151.13 207.0038 0)
+			(at 163.83 207.0038 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6221,7 +6221,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6232,7 +6232,7 @@
 			)
 		)
 		(property "Vendor PN" "C15850"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6243,7 +6243,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6254,7 +6254,7 @@
 			)
 		)
 		(property "Case" "0805/2012"
-			(at 151.13 191.77 0)
+			(at 163.83 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7443,7 +7443,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 144.78 189.23 0)
+		(at 157.48 189.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7454,7 +7454,7 @@
 		(fields_autoplaced yes)
 		(uuid "7493b3f7-f9a8-4b8d-b8db-3def2808728f")
 		(property "Reference" "#PWR077"
-			(at 144.78 195.58 0)
+			(at 157.48 195.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7465,7 +7465,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 144.78 194.31 0)
+			(at 157.48 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7476,7 +7476,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 189.23 0)
+			(at 157.48 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7487,7 +7487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 189.23 0)
+			(at 157.48 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7498,7 +7498,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 144.78 189.23 0)
+			(at 157.48 189.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7861,7 +7861,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD5Zxx")
-		(at 177.8 191.77 270)
+		(at 190.5 191.77 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7871,7 +7871,7 @@
 		(dnp no)
 		(uuid "7ffbc2f6-973c-4694-b9be-2f72208e700b")
 		(property "Reference" "D8"
-			(at 177.8 201.93 90)
+			(at 190.5 201.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7881,7 +7881,7 @@
 			)
 		)
 		(property "Value" "ESD9L5.0"
-			(at 177.8 204.47 90)
+			(at 190.5 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7891,7 +7891,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-923"
-			(at 173.355 191.77 0)
+			(at 186.055 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7902,7 +7902,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
-			(at 177.8 191.77 0)
+			(at 190.5 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7913,7 +7913,7 @@
 			)
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
-			(at 177.8 191.77 0)
+			(at 190.5 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7924,7 +7924,7 @@
 			)
 		)
 		(property "Case" "SOD-923"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7935,7 +7935,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7946,7 +7946,7 @@
 			)
 		)
 		(property "LCSC Part #" "C82326"
-			(at 177.8 207.01 90)
+			(at 190.5 207.01 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7956,7 +7956,7 @@
 			)
 		)
 		(property "Mfr" "Onsemi"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7967,7 +7967,7 @@
 			)
 		)
 		(property "Mfr PN" "ESD9L5.0ST5G"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7978,7 +7978,7 @@
 			)
 		)
 		(property "Technology" ""
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +7989,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8000,7 +8000,7 @@
 			)
 		)
 		(property "Vendor PN" "C82326"
-			(at 177.8 191.77 90)
+			(at 190.5 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8705,7 +8705,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 196.85 0)
+		(at 203.2 196.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8716,7 +8716,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cca84f1-3205-459a-ab61-5ddbc79c1747")
 		(property "Reference" "#PWR087"
-			(at 190.5 203.2 0)
+			(at 203.2 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8727,7 +8727,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 201.93 0)
+			(at 203.2 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8738,7 +8738,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 196.85 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8749,7 +8749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 196.85 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8760,7 +8760,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 196.85 0)
+			(at 203.2 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8863,7 +8863,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 196.85 0)
+		(at 177.8 196.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8874,7 +8874,7 @@
 		(fields_autoplaced yes)
 		(uuid "944d6bf9-7196-4acb-9f2d-abea9cbd03ce")
 		(property "Reference" "#PWR081"
-			(at 165.1 203.2 0)
+			(at 177.8 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8885,7 +8885,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 201.93 0)
+			(at 177.8 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8896,7 +8896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 196.85 0)
+			(at 177.8 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8907,7 +8907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 196.85 0)
+			(at 177.8 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8918,7 +8918,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 196.85 0)
+			(at 177.8 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9188,7 +9188,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 151.13 196.85 0)
+		(at 163.83 196.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9199,7 +9199,7 @@
 		(fields_autoplaced yes)
 		(uuid "98e4da8b-4d43-45db-a6df-2bab7f58d19a")
 		(property "Reference" "#PWR079"
-			(at 151.13 203.2 0)
+			(at 163.83 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9210,7 +9210,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 201.93 0)
+			(at 163.83 201.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9221,7 +9221,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 196.85 0)
+			(at 163.83 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9232,7 +9232,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 196.85 0)
+			(at 163.83 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9243,7 +9243,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 196.85 0)
+			(at 163.83 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9480,7 +9480,7 @@
 	)
 	(symbol
 		(lib_id "Tales:+3V3")
-		(at 151.13 180.34 0)
+		(at 163.83 180.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9490,7 +9490,7 @@
 		(dnp no)
 		(uuid "abc29f4f-5024-46b7-b7a3-1a7e3ecf220b")
 		(property "Reference" "#PWR078"
-			(at 151.13 184.15 0)
+			(at 163.83 184.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9501,7 +9501,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 151.13 176.53 0)
+			(at 163.83 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9511,7 +9511,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 180.34 0)
+			(at 163.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9522,7 +9522,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 180.34 0)
+			(at 163.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9533,7 +9533,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 151.13 180.34 0)
+			(at 163.83 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9869,7 +9869,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD5Zxx")
-		(at 190.5 191.77 270)
+		(at 203.2 191.77 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9879,7 +9879,7 @@
 		(dnp no)
 		(uuid "bc39b75f-a6f1-4683-b5aa-d2baaa84d9e1")
 		(property "Reference" "D9"
-			(at 190.5 201.93 90)
+			(at 203.2 201.93 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9889,7 +9889,7 @@
 			)
 		)
 		(property "Value" "ESD9L5.0"
-			(at 190.5 204.47 90)
+			(at 203.2 204.47 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9899,7 +9899,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-923"
-			(at 186.055 191.77 0)
+			(at 198.755 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9910,7 +9910,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf"
-			(at 190.5 191.77 0)
+			(at 203.2 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9921,7 +9921,7 @@
 			)
 		)
 		(property "Description" "ESD Protection Diode, SOD-523"
-			(at 190.5 191.77 0)
+			(at 203.2 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9932,7 +9932,7 @@
 			)
 		)
 		(property "Case" "SOD-923"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9943,7 +9943,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9954,7 +9954,7 @@
 			)
 		)
 		(property "LCSC Part #" "C82326"
-			(at 190.5 207.01 90)
+			(at 203.2 207.01 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9964,7 +9964,7 @@
 			)
 		)
 		(property "Mfr" "Onsemi"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9975,7 +9975,7 @@
 			)
 		)
 		(property "Mfr PN" "ESD9L5.0ST5G"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9986,7 +9986,7 @@
 			)
 		)
 		(property "Technology" ""
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9997,7 +9997,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10008,7 +10008,7 @@
 			)
 		)
 		(property "Vendor PN" "C82326"
-			(at 190.5 191.77 90)
+			(at 203.2 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
