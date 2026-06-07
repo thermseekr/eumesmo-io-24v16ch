@@ -863,6 +863,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "OUTPUTS\n1-8"
+		(exclude_from_sim no)
+		(at 285.75 205.74 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "68f4859b-20db-4d72-abe8-8bba3c8505a1")
+	)
+	(text "OUTPUTS\n9-16"
+		(exclude_from_sim no)
+		(at 382.27 205.74 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "c220d010-0984-4e0f-8a9c-cd0e06597659")
+	)
 	(text "RESISTORS: 62,5mW WHERE NOT SPECIFIED"
 		(exclude_from_sim no)
 		(at 303.53 259.08 0)
@@ -873,6 +895,39 @@
 			(justify left)
 		)
 		(uuid "df1b3ea3-b1f7-492c-bb27-3a8846f00e32")
+	)
+	(text "INPUTS\n1-8"
+		(exclude_from_sim no)
+		(at 24.13 205.74 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3c54110-37b6-4636-a5bc-7f323a3bfa0e")
+	)
+	(text "GNDIO"
+		(exclude_from_sim no)
+		(at 26.67 267.97 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "e743923f-05c4-44ee-b93f-a4bc988cae8e")
+	)
+	(text "INPUTS\n9-16"
+		(exclude_from_sim no)
+		(at 118.11 205.74 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3169391-4ed1-4aca-a73b-cc4d0109af18")
 	)
 	(junction
 		(at 45.72 259.08)
@@ -3672,7 +3727,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -3733,6 +3788,17 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 342.9 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -3748,7 +3814,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -3809,6 +3875,17 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 342.9 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -3841,7 +3918,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAÍDAS 9-16"
+		(property "Value" "250-208"
 			(at 386.08 187.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4029,7 +4106,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAÍDAS 1-8"
+		(property "Value" "250-208"
 			(at 289.56 187.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4286,25 +4363,23 @@
 		(fields_autoplaced yes)
 		(uuid "8ff91021-5966-4f9b-940b-b85b81837d8b")
 		(property "Reference" "J3"
-			(at 128.27 185.4199 0)
+			(at 130.81 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "ENTRADAS 9-16"
-			(at 128.27 187.9599 0)
+		(property "Value" "250-208"
+			(at 130.81 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Wago_250-208_1x08_P3.5mm_45Degree"
@@ -4467,7 +4542,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4528,6 +4603,17 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 342.9 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -4543,7 +4629,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -4604,6 +4690,17 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 342.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -4627,25 +4724,23 @@
 		(fields_autoplaced yes)
 		(uuid "aecb34af-d9ce-4e11-a615-5f693b8e2e59")
 		(property "Reference" "J1"
-			(at 34.29 185.4199 0)
+			(at 36.83 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "ENTRADAS 1-8"
-			(at 34.29 187.9599 0)
+		(property "Value" "250-208"
+			(at 36.83 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Wago_250-208_1x08_P3.5mm_45Degree"
@@ -4903,7 +4998,7 @@
 				)
 			)
 		)
-		(property "Value" "GNDIO"
+		(property "Value" "250-202"
 			(at 36.83 255.27 0)
 			(show_name no)
 			(do_not_autoplace no)

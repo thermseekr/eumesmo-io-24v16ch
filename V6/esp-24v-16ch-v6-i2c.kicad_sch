@@ -10,6 +10,129 @@
 		(rev "V6.0")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
 				(offset 1.016)
@@ -2578,6 +2701,29 @@
 		)
 		(uuid "b52e12c1-004c-4016-b66f-ce9d52889386")
 	)
+	(text "SENSORS"
+		(exclude_from_sim no)
+		(at 132.08 194.31 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4658ec4-7be7-4b30-8f61-483408c95b40")
+	)
+	(junction
+		(at 332.74 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c5d8fd0-d008-4434-bdf3-bea8adddc369")
+	)
+	(junction
+		(at 335.28 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18732725-1581-44de-af05-d140f3da9d42")
+	)
 	(junction
 		(at 233.68 185.42)
 		(diameter 0)
@@ -2836,7 +2982,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 31.75) (xy 335.28 161.29)
+			(xy 335.28 31.75) (xy 335.28 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3173,6 +3319,16 @@
 			(type default)
 		)
 		(uuid "58314bdc-f0f6-4502-a4af-584759ed0076")
+	)
+	(wire
+		(pts
+			(xy 332.74 71.12) (xy 332.74 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "592b74b0-5d2f-4487-a161-56af75d99c9f")
 	)
 	(wire
 		(pts
@@ -3553,6 +3709,16 @@
 			(type default)
 		)
 		(uuid "9733bbb4-e399-4a80-b5a3-f9b6c0a3bb9e")
+	)
+	(wire
+		(pts
+			(xy 345.44 67.31) (xy 345.44 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9def3615-af75-40d5-9d39-4c554bb17096")
 	)
 	(wire
 		(pts
@@ -4056,6 +4222,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 88.9) (xy 335.28 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc36f534-9417-4b40-a424-47f3d40bd4cb")
+	)
+	(wire
+		(pts
 			(xy 205.74 81.28) (xy 203.2 81.28)
 		)
 		(stroke
@@ -4076,13 +4252,33 @@
 	)
 	(wire
 		(pts
-			(xy 332.74 29.21) (xy 332.74 163.83)
+			(xy 345.44 85.09) (xy 345.44 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd84732b-7ec7-4f2a-bed2-8733bd8423ae")
+	)
+	(wire
+		(pts
+			(xy 332.74 29.21) (xy 332.74 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ddb7d0d6-4b70-4773-a764-9529b7d53428")
+	)
+	(wire
+		(pts
+			(xy 345.44 71.12) (xy 332.74 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "defc6dea-c1c7-488e-89bb-08503bb562ad")
 	)
 	(wire
 		(pts
@@ -4203,6 +4399,16 @@
 			(type default)
 		)
 		(uuid "ec4d00e8-f1a5-4e1c-8841-7b15d133faf5")
+	)
+	(wire
+		(pts
+			(xy 335.28 88.9) (xy 335.28 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee3420c3-f72a-47aa-b000-0da9ff4669ae")
 	)
 	(wire
 		(pts
@@ -4824,7 +5030,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP23008-xSS"
+		(property "Value" "MCP23008"
 			(at 85.9633 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4858,6 +5064,83 @@
 			)
 		)
 		(property "Description" "8-bit I/O expander, I2C, interrupts, SSOP-20"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Case" "SSOP-20"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C148011"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Microchip"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "MCP23008-E/SS"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 83.82 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C148011"
 			(at 83.82 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -5448,7 +5731,7 @@
 				)
 			)
 		)
-		(property "Value" "SENSORS"
+		(property "Value" "250-203"
 			(at 151.13 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5513,7 +5796,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2898745"
+		(property "LCSC Part #" "C2765062"
 			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -5524,7 +5807,7 @@
 				)
 			)
 		)
-		(property "Mfr" "DIBO"
+		(property "Mfr" "WAGO"
 			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -5535,7 +5818,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "DB141V-2.54-3P-GN"
+		(property "Mfr PN" "250-203"
 			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -5568,7 +5851,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2898745"
+		(property "Vendor PN" "C2765062"
 			(at 151.13 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -6601,6 +6884,95 @@
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
 					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 345.44 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5c6ef0a0-9625-465e-9277-8160da8dafb7")
+		(property "Reference" "TP18"
+			(at 344.17 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SCL"
+			(at 344.17 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 350.52 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 345.44 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 345.44 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7520070d-6fef-4c7f-9d09-cfbc509584fe")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -9110,6 +9482,95 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 345.44 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9589eec7-692a-4bc7-abf5-eca1c1c49c50")
+		(property "Reference" "TP17"
+			(at 344.17 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SDA"
+			(at 344.17 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 350.52 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 350.52 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 345.44 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 345.44 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "57275668-d9ca-42bc-a5d6-0ba68662910c")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
+					(reference "TP17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Tales:+3V3")
 		(at 250.19 73.66 0)
 		(unit 1)
@@ -9288,7 +9749,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP23008-xSS"
+		(property "Value" "MCP23008"
 			(at 192.6433 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9322,6 +9783,83 @@
 			)
 		)
 		(property "Description" "8-bit I/O expander, I2C, interrupts, SSOP-20"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Case" "SSOP-20"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C148011"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Microchip"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "MCP23008-E/SS"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 190.5 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C148011"
 			(at 190.5 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10056,7 +10594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP23017x-x-SS"
+		(property "Value" "MCP23017"
 			(at 280.2733 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10092,6 +10630,83 @@
 			)
 		)
 		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Case" "SSOP-28"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C506653"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr" "Microchip"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfr PN" "MCP23017-E/SS"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 278.13 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Vendor PN" "C506653"
 			(at 278.13 83.82 0)
 			(hide yes)
 			(show_name no)
