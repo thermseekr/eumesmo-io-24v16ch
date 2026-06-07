@@ -5186,12 +5186,6 @@
 		(uuid "44d02eb3-26c8-41e4-8c6c-8c6bab14a1af")
 	)
 	(junction
-		(at 105.41 74.93)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "496372a2-489e-4930-a525-8b2e854b2c5b")
-	)
-	(junction
 		(at 232.41 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5208,6 +5202,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c376583-7a77-4871-84c0-489d4d305627")
+	)
+	(junction
+		(at 251.46 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61b60375-42ee-47c7-b6d7-8f0e754610d3")
+	)
+	(junction
+		(at 105.41 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61cd3ac8-777c-402b-9ac4-c29328309456")
+	)
+	(junction
+		(at 166.37 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67c1ab0c-9580-4a3d-8961-3e1248389d45")
 	)
 	(junction
 		(at 60.96 95.25)
@@ -5306,6 +5318,12 @@
 		(uuid "bcc3156f-4ee9-427b-832c-d3b226591a6a")
 	)
 	(junction
+		(at 55.88 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c2ea3615-0b0c-407f-94b9-56d94f3540d4")
+	)
+	(junction
 		(at 46.99 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5328,6 +5346,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eba42bce-40ed-457b-914a-322ff1946409")
+	)
+	(junction
+		(at 60.96 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1e6170f-8e42-4220-a5c9-4e9371ff6ba0")
 	)
 	(junction
 		(at 210.82 118.11)
@@ -5609,6 +5633,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 143.51) (xy 261.62 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29ae2027-747c-4be0-852b-b7bcd4877b21")
+	)
+	(wire
+		(pts
 			(xy 265.43 110.49) (xy 265.43 111.76)
 		)
 		(stroke
@@ -5646,6 +5680,16 @@
 			(type default)
 		)
 		(uuid "2f5fa03d-1be2-40f0-9791-bf18401518d6")
+	)
+	(wire
+		(pts
+			(xy 251.46 140.97) (xy 251.46 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fbdf5d2-0b3b-4da6-84f5-b42689f3808a")
 	)
 	(wire
 		(pts
@@ -5879,6 +5923,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 46.99) (xy 66.04 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6083cf9f-6d2a-498d-bdac-911bd4116291")
+	)
+	(wire
+		(pts
 			(xy 35.56 113.03) (xy 35.56 114.3)
 		)
 		(stroke
@@ -5896,6 +5950,16 @@
 			(type default)
 		)
 		(uuid "611da68d-062f-483c-98bd-6bea66a6cd0f")
+	)
+	(wire
+		(pts
+			(xy 55.88 46.99) (xy 60.96 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6120465c-89c5-42b1-b086-1848fe18f9a4")
 	)
 	(wire
 		(pts
@@ -6329,7 +6393,17 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 143.51) (xy 233.68 143.51)
+			(xy 152.4 114.3) (xy 152.4 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9564e346-b9fe-40c7-8433-1217c8d2a9d9")
+	)
+	(wire
+		(pts
+			(xy 229.87 143.51) (xy 251.46 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6419,6 +6493,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 118.11) (xy 166.37 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a815f6ce-3b87-40af-ac9f-cd9920303a4e")
+	)
+	(wire
+		(pts
 			(xy 105.41 107.95) (xy 105.41 109.22)
 		)
 		(stroke
@@ -6496,6 +6580,16 @@
 			(type default)
 		)
 		(uuid "b0b14236-9929-4b00-b403-063e063337fd")
+	)
+	(wire
+		(pts
+			(xy 66.04 44.45) (xy 66.04 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b15d9515-acc9-4fc0-a8bc-93545539c018")
 	)
 	(wire
 		(pts
@@ -6636,6 +6730,16 @@
 			(type default)
 		)
 		(uuid "c89711dd-acd8-4a7e-8c76-7b31213e49a8")
+	)
+	(wire
+		(pts
+			(xy 60.96 44.45) (xy 60.96 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8a1a908-8232-4749-b8f1-1b096d82a53c")
 	)
 	(wire
 		(pts
@@ -7219,7 +7323,7 @@
 	)
 	(hierarchical_label "PHYPWR"
 		(shape input)
-		(at 233.68 143.51 0)
+		(at 261.62 143.51 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7497,6 +7601,95 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 60.96 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "099c48c7-08b3-4057-9422-48c231b2ceb1")
+		(property "Reference" "TP2"
+			(at 59.69 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 59.69 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
+			(at 66.04 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 60.96 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 60.96 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fa86923d-1a45-4cba-b56c-16438601886b")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 115.57 156.21 0)
 		(unit 1)
@@ -7735,6 +7928,95 @@
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 152.4 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "10aacaf2-535c-4904-8b0e-177e86567294")
+		(property "Reference" "TP7"
+			(at 151.13 105.41 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHYPWRFET"
+			(at 151.13 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 157.48 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 152.4 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 152.4 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "007e5c94-85ff-41a9-a68c-422cee0e83a7")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -10071,7 +10353,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4118f95c-bd84-4bfd-95ac-69ddbc260c4a")
-		(property "Reference" "TP3"
+		(property "Reference" "TP8"
 			(at 127 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10093,7 +10375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
 			(at 133.35 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10126,13 +10408,24 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 128.27 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e78015e0-1e2c-46b2-a587-186d946831ee")
 		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP3")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -10320,6 +10613,95 @@
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 251.46 140.97 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "4aac4442-baf7-4efd-8f76-5e2cf806af72")
+		(property "Reference" "TP9"
+			(at 250.19 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PHYPWR"
+			(at 250.19 134.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 256.54 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 251.46 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 251.46 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b585d945-851c-4483-9554-5efffb8771e1")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -11522,7 +11904,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73236091-32ff-4280-90ed-9e9e6f19c6f6")
-		(property "Reference" "TP2"
+		(property "Reference" "TP4"
 			(at 267.97 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11544,7 +11926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
 			(at 274.32 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -11577,13 +11959,24 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 269.24 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3b5214bb-854d-433f-a0d5-db983eeef8c2")
 		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP2")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -12001,7 +12394,7 @@
 				)
 			)
 		)
-		(property "Value" "VIN"
+		(property "Value" "250-202"
 			(at 34.29 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13588,7 +13981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
 			(at 60.96 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -13611,6 +14004,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 55.88 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
 			(at 55.88 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -14329,7 +14733,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b40a9ca9-ef39-40af-8cfa-16b3516fd247")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 231.14 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14384,13 +14788,24 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 232.41 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "02cbcc11-4390-4ef1-a509-ac2231bb515f")
 		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -14486,7 +14901,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C185323"
+		(property "LCSC Part #" "C23198"
 			(at 229.87 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14497,7 +14912,7 @@
 				(justify left)
 			)
 		)
-		(property "Mfr" "Yageo"
+		(property "Mfr" "Uniroyal"
 			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14508,7 +14923,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "RC0603FR-0752K3L"
+		(property "Mfr PN" "0603WAF5232T5E"
 			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14530,7 +14945,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C185323"
+		(property "Vendor PN" "C23198"
 			(at 227.33 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15036,7 +15451,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c29cf23c-7483-49d0-9de8-1b3548c25301")
-		(property "Reference" "TP5"
+		(property "Reference" "TP6"
 			(at 270.51 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15091,13 +15506,24 @@
 				)
 			)
 		)
+		(property "JLCPCB BOM" "0"
+			(at 271.78 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8e03ca97-546e-4eee-8557-7d0b5cfee8b8")
 		)
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
-					(reference "TP5")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -17515,6 +17941,95 @@
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 66.04 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ffbf9c84-d973-436c-9c11-b9eed0aacf27")
+		(property "Reference" "TP3"
+			(at 64.77 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 64.77 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TestPoint_Keystone_5019_Miniature"
+			(at 71.12 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 66.04 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB BOM" "0"
+			(at 66.04 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1a833767-4d12-4f0c-bdf4-9da3531e9fcc")
+		)
+		(instances
+			(project "esp-24v-16ch-v6"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/7b388c9c-6faf-4681-b727-510de2ea001e"
+					(reference "TP3")
 					(unit 1)
 				)
 			)
