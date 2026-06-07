@@ -9443,7 +9443,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C12074"
+		(property "LCSC Part #" "C2760325"
 			(at 34.29 159.3849 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9465,7 +9465,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "HR911105A"
+		(property "Mfr PN" "HR915340A"
 			(at 48.26 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -9498,7 +9498,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C12074"
+		(property "Vendor PN" "C2760325"
 			(at 48.26 154.94 0)
 			(hide yes)
 			(show_name no)
