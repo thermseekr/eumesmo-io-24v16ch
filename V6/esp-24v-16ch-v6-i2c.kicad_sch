@@ -6900,7 +6900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5c6ef0a0-9625-465e-9277-8160da8dafb7")
-		(property "Reference" "TP18"
+		(property "Reference" "TP19"
 			(at 344.17 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6972,7 +6972,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
-					(reference "TP18")
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -9492,7 +9492,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9589eec7-692a-4bc7-abf5-eca1c1c49c50")
-		(property "Reference" "TP17"
+		(property "Reference" "TP18"
 			(at 344.17 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9564,7 +9564,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/8d06b51d-d00b-4f80-9ffb-ab0131290cf2"
-					(reference "TP17")
+					(reference "TP18")
 					(unit 1)
 				)
 			)

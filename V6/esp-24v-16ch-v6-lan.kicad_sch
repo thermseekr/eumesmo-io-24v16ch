@@ -7150,7 +7150,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "2eb49dee-10f0-4f66-af4c-b187fe0677c6")
-		(property "Reference" "TP14"
+		(property "Reference" "TP15"
 			(at 128.27 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7222,7 +7222,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP14")
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -8516,7 +8516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bd3222f-cd57-457d-884d-5b03df898358")
-		(property "Reference" "TP16"
+		(property "Reference" "TP17"
 			(at 116.84 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8588,7 +8588,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP16")
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -9729,7 +9729,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8d9583d8-655b-4297-b4eb-2f55ac1aa855")
-		(property "Reference" "TP15"
+		(property "Reference" "TP16"
 			(at 58.42 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9801,7 +9801,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP15")
+					(reference "TP16")
 					(unit 1)
 				)
 			)
@@ -12404,7 +12404,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "d9a87a6b-2f90-44f0-bbdf-a52a4bc22815")
-		(property "Reference" "TP13"
+		(property "Reference" "TP14"
 			(at 247.65 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12476,7 +12476,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
-					(reference "TP13")
+					(reference "TP14")
 					(unit 1)
 				)
 			)
