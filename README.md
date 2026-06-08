@@ -17,7 +17,7 @@ The dimensions were chosen for mounting on a PCB DIN rail holder from the Brazil
 | **Peripherals** | 1-Wire Interface, GPIO or 1-Wire master |
 | **Form Factor** | Metaltex DIN Rail Compatible |
 
-![ESP-24V-16CH V6.0](https://github.com/thermseekr/ESP-24v-16ch/raw/main/V6/esp-24v-16ch-v6.0.1.png)
+![ESP-24V-16CH V6.0](https://github.com/thermseekr/ESP-24v-16ch/raw/main/V6/esp-24v-16ch-v6.0.2.png)
 
 ## VERSION HISTORY
 
