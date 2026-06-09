@@ -7,7 +7,7 @@
 	(title_block
 		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
 		(date "2026-02-10")
-		(rev "V6.0.3")
+		(rev "V6.1.0")
 	)
 	(lib_symbols
 		(symbol "Device:LED_Small"

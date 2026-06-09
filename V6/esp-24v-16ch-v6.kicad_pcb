@@ -10,7 +10,7 @@
 	(title_block
 		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
 		(date "2026-06-09")
-		(rev "V6.0.3")
+		(rev "V6.1.0")
 	)
 	(layers
 		(0 "F.Cu" mixed)
@@ -116697,7 +116697,7 @@
 		(layer "Edge.Cuts")
 		(uuid "489cd4de-a582-41f8-9817-74577ca446fd")
 	)
-	(gr_text "V6.0.3\n2026-06-09"
+	(gr_text "V6.1.0\n2026-06-09"
 		(at 158.52 132.58 0)
 		(layer "F.SilkS")
 		(uuid "3b27a60a-1f89-4c5d-9fcc-4534c1b57642")
@@ -117227,7 +117227,7 @@
 			)
 		)
 	)
-	(gr_text "ESP-24V-16CH V6.0"
+	(gr_text "ESP-24V-16CH V6"
 		(at 208.77 101.33 0)
 		(layer "F.SilkS")
 		(uuid "61c1d000-f1a7-469e-b519-c7d6a9879575")
