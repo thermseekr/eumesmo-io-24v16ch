@@ -285,7 +285,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V6.0"
+      "sch_revision": "V6.0.3"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -824,6 +824,10 @@
       {
         "netclass": "1WIRE",
         "pattern": "/I2C Devices/1W*"
+      },
+      {
+        "netclass": "ESP",
+        "pattern": "/MCU/MRESET"
       }
     ]
   },
@@ -845,7 +849,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "",
     "bom_fmt_presets": [],
@@ -1049,7 +1053,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "U14,TP6-19,R137",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

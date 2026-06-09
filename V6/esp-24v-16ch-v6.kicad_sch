@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-06-01")
-		(rev "V6.0")
+		(date "2026-06-09")
+		(rev "V6.0.3")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -3907,7 +3907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ade5c6e-5a9f-4fd0-abe5-ec62c063d514")
-		(property "Reference" "J5"
+		(property "Reference" "J4"
 			(at 386.08 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4077,7 +4077,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J5")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -4095,7 +4095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c6297ca-1f82-4eb0-a676-338544525471")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 289.56 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4265,7 +4265,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -4362,7 +4362,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ff91021-5966-4f9b-940b-b85b81837d8b")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 130.81 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4530,7 +4530,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -4988,7 +4988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6f4a184-947f-4ac7-87e5-130c252ed5d4")
-		(property "Reference" "J2"
+		(property "Reference" "J5"
 			(at 36.83 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5138,7 +5138,7 @@
 		(instances
 			(project "esp-24v-16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J2")
+					(reference "J5")
 					(unit 1)
 				)
 			)
