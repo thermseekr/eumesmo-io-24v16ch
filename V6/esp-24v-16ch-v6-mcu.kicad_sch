@@ -2308,6 +2308,17 @@
 		)
 		(uuid "58b725cf-b09a-4738-8521-2007ca93c8a6")
 	)
+	(text "FOR NEXT VERSION:\n REPLACE THE RC RESET CIRCUIT\n FOR A TPS3820-33 (25ms)"
+		(exclude_from_sim no)
+		(at 168.91 147.32 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+			)
+			(justify left)
+		)
+		(uuid "b06e5530-ee36-4f58-bee0-fa88fa0ce532")
+	)
 	(text "TEMPLATE FOR GPIO ASSIGNMENT\n\n{\"NAME\":\"ESP-24V-16CH-V6\",\"GPIO\":[0,3200,0,3232,0,0,0,0,5536,10240,10241,0,0,\n0,5600,0,0,0,0,5568,0,0,0,0,0,0,0,0,608,640,192,193,0,0,0,0],\"FLAG\":0,\"BASE\":1}\n\nSee https://tasmota.github.io/docs/Templates/"
 		(exclude_from_sim no)
 		(at 15.24 133.35 0)

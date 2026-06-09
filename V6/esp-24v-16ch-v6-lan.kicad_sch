@@ -3923,12 +3923,12 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "FOR NEXT VERSION:\n REMOVE MODE PULL-UPS (THERE ARE INTERNAL PULL-UPS)\n REMOVE ADDRESS PULL-DOWNS (THERE ARE INTERNAL PULL-DOWNS)\n INSTALL ONE SINGLE PULL-UP ON PIN 13 (/PHYAD0) TO SELECT ADDRESS 1 AS SUGGESTED IN THE DATASHEET."
+	(text "FOR NEXT VERSION:\n REPLACE THE RC RESET CIRCUIT\n FOR A TPS3823-33 (200ms)"
 		(exclude_from_sim no)
-		(at 38.1 19.05 0)
+		(at 147.32 142.24 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1.905 1.905)
 			)
 			(justify left)
 		)
@@ -7241,7 +7241,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 81.28 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7318,7 +7318,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 80.01 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7351,7 +7351,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 81.28 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7410,7 +7410,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 91.44 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7487,7 +7487,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 90.17 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7520,7 +7520,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 91.44 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8607,7 +8607,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 121.92 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8684,7 +8684,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 120.65 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8717,7 +8717,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 121.92 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8945,7 +8945,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 71.12 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9022,7 +9022,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 69.85 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9055,7 +9055,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 71.12 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9820,7 +9820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 111.76 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9897,7 +9897,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 110.49 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9930,7 +9930,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 111.76 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10674,7 +10674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 60.96 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10751,7 +10751,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 59.69 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10773,7 +10773,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25744"
+		(property "Vendor PN" "C25879"
 			(at 59.69 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10784,7 +10784,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 60.96 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11024,7 +11024,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 101.6 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11101,7 +11101,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 100.33 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11134,7 +11134,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 101.6 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)

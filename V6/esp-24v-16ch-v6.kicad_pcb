@@ -13561,7 +13561,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "03a2df7c-fee1-4804-859e-ee3200dfbdfc")
@@ -13635,7 +13635,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13674,7 +13674,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35734,7 +35734,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "91166674-3e5b-4409-83ee-e21fd4fefd9f")
@@ -35808,7 +35808,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35847,7 +35847,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40919,7 +40919,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "3c5e130f-c085-47de-991c-e2b5c87b8a94")
@@ -40993,7 +40993,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41032,7 +41032,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72876,7 +72876,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "030bb8b7-f771-4440-8a28-9996241deca9")
@@ -72950,7 +72950,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72989,7 +72989,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -92909,7 +92909,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "e5456397-7ad9-4355-9753-7de660924ef2")
@@ -92983,7 +92983,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93009,7 +93009,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25744"
+		(property "Vendor PN" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -93022,7 +93022,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -100774,7 +100774,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "09c22dd9-b465-4ddc-a0f8-cc9dd83b85f3")
@@ -100848,7 +100848,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -100887,7 +100887,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -111391,7 +111391,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "2.2k"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "00a44172-426d-40fb-9f3c-ee20ebf212b8")
@@ -111465,7 +111465,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF1002TCE"
+		(property "Mfr PN" "0402WGF2201TCE"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -111504,7 +111504,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25879"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
