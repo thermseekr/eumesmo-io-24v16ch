@@ -285,7 +285,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V6.1"
+      "sch_revision": "V6.2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -535,7 +535,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp-24v-16ch-v6.kicad_pro",
+    "filename": "eumesmo-io-24v16ch-v6.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1048,8 +1048,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp-24v-16ch-v6.kicad_sch",
-        "name": "esp-24v-16ch-v6",
+        "filename": "eumesmo-io-24v16ch-v6.kicad_sch",
+        "name": "eumesmo-io-24v16ch-v6",
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
@@ -1059,7 +1059,7 @@
   "sheets": [
     [
       "2bc5a21a-1d79-419d-a592-6852cc07b00a",
-      "esp-24v-16ch-v6"
+      "eumesmo-io-24v16ch-v6"
     ],
     [
       "7b388c9c-6faf-4681-b727-510de2ea001e",

@@ -5,9 +5,9 @@
 	(uuid "6c33f4ff-7ffb-4387-9626-ca1bbece1989")
 	(paper "A4")
 	(title_block
-		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-02-10")
-		(rev "V6.1")
+		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
+		(date "2026-06-13")
+		(rev "V6.2")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -6580,7 +6580,7 @@
 			(uuid "dcf3b04b-a8ea-4760-86ef-b130ec3ece03")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C21")
 					(unit 1)
@@ -6665,7 +6665,7 @@
 			(uuid "f103ff0d-b01e-48de-9552-837d642f24b9")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR054")
 					(unit 1)
@@ -6837,7 +6837,7 @@
 			(uuid "0bb3a057-5e93-4d50-97b2-37215cf9e3b9")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R30")
 					(unit 1)
@@ -6916,7 +6916,7 @@
 			(uuid "9fffe186-9a72-4605-b1f5-03cda0823dfe")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR056")
 					(unit 1)
@@ -7088,7 +7088,7 @@
 			(uuid "fe0660bb-c22b-48cf-b92a-1ba0087c0486")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R32")
 					(unit 1)
@@ -7183,7 +7183,7 @@
 			(uuid "3ede94f0-080e-4430-b099-5604515d3a39")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "TP14")
 					(unit 1)
@@ -7273,7 +7273,7 @@
 			(uuid "71f0d4c6-0bd5-4b32-9a96-a9cd0347a74b")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "U7")
 					(unit 1)
@@ -7442,7 +7442,7 @@
 			(uuid "9cd522e7-c5b9-4704-a400-02d6f20684a4")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R24")
 					(unit 1)
@@ -7611,7 +7611,7 @@
 			(uuid "72aa1017-90e5-4c89-ab3b-2b7edb31bdca")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R25")
 					(unit 1)
@@ -7777,7 +7777,7 @@
 			(uuid "ce4a0256-5f54-41ba-a715-7484bae7839e")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R31")
 					(unit 1)
@@ -7946,7 +7946,7 @@
 			(uuid "b69b2950-7f1a-4ae8-a2c3-afceea897392")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C24")
 					(unit 1)
@@ -8030,7 +8030,7 @@
 			(uuid "c66c8302-db76-493e-aad4-9846d37f2821")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR066")
 					(unit 1)
@@ -8202,7 +8202,7 @@
 			(uuid "d8888d56-36a6-41f3-ba81-bbf503413c4b")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R35")
 					(unit 1)
@@ -8371,7 +8371,7 @@
 			(uuid "9aa4791e-5b0b-4cbb-ae21-16ad3857fd4f")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C25")
 					(unit 1)
@@ -8544,7 +8544,7 @@
 			(uuid "fb8bbdb8-6ccd-4d1a-8aab-315f28a9c853")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R33")
 					(unit 1)
@@ -8719,7 +8719,7 @@
 			(uuid "ce7a3b9c-5e08-45c0-9a11-033ce8381d3d")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R28")
 					(unit 1)
@@ -8798,7 +8798,7 @@
 			(uuid "959a7b5f-4958-48be-bdc7-52df177ff56a")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR055")
 					(unit 1)
@@ -8882,7 +8882,7 @@
 			(uuid "8fd43345-ba3c-472e-909b-bd9ea4556069")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR052")
 					(unit 1)
@@ -9057,7 +9057,7 @@
 			(uuid "5e2fad55-ebc9-43c0-882f-209c1232e46a")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R23")
 					(unit 1)
@@ -9134,7 +9134,7 @@
 			(uuid "20278d68-b8c5-47f6-9e6e-b3a79ccf5a33")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR067")
 					(unit 1)
@@ -9219,7 +9219,7 @@
 			(uuid "6d0dde68-bc6f-44ec-bf97-09a63999b35f")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR053")
 					(unit 1)
@@ -9303,7 +9303,7 @@
 			(uuid "47abaa36-97d0-42b7-a07f-7f89dd76d74f")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR059")
 					(unit 1)
@@ -9513,7 +9513,7 @@
 			(uuid "71d18ae3-13bf-4d68-9aaf-4eaf0d926438")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "J8")
 					(unit 1)
@@ -9590,7 +9590,7 @@
 			(uuid "99feb562-84e4-4fc4-b992-ef87fcbf8f54")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR065")
 					(unit 1)
@@ -9668,7 +9668,7 @@
 			(uuid "042b0dbe-fc71-47a4-8e9e-db305176cfb5")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR068")
 					(unit 1)
@@ -9763,7 +9763,7 @@
 			(uuid "165eda5f-7543-43cc-a783-2c61e4f4ae2b")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "TP15")
 					(unit 1)
@@ -9932,7 +9932,7 @@
 			(uuid "98dabfb7-8d45-420d-ae0e-a1db6c4c5518")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R27")
 					(unit 1)
@@ -10009,7 +10009,7 @@
 			(uuid "c1a2aef3-a101-4ac9-a77b-5a6fee9146ba")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#FLG08")
 					(unit 1)
@@ -10094,7 +10094,7 @@
 			(uuid "e866de5c-73b2-4b65-8e4b-9d32e8c86bc5")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR057")
 					(unit 1)
@@ -10269,7 +10269,7 @@
 			(uuid "cf009601-7db7-4fba-89e7-fbc86a714f0f")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C22")
 					(unit 1)
@@ -10352,7 +10352,7 @@
 			(uuid "6649d58c-3f69-40f5-bdf3-dd57fd1a9987")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR062")
 					(unit 1)
@@ -10527,7 +10527,7 @@
 			(uuid "34a90d18-789e-4f9a-baee-8c4867a2e74b")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C19")
 					(unit 1)
@@ -10611,7 +10611,7 @@
 			(uuid "e7295e74-a5fd-4147-b6a4-b1b9b160a863")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR064")
 					(unit 1)
@@ -10786,7 +10786,7 @@
 			(uuid "9e832ad8-eadd-412b-8446-a80e75bf4ce0")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R22")
 					(unit 1)
@@ -10955,7 +10955,7 @@
 			(uuid "73ec5e68-aaae-45ab-8d44-363c0c29f725")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R26")
 					(unit 1)
@@ -11034,7 +11034,7 @@
 			(uuid "a636662d-6de3-4a1a-a78f-b7ab0b886912")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR058")
 					(unit 1)
@@ -11117,7 +11117,7 @@
 			(uuid "a3e936a8-11cf-4a81-8a9d-f038a022e4bd")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR049")
 					(unit 1)
@@ -11292,7 +11292,7 @@
 			(uuid "aaed08ef-5dd7-475d-901e-457c8e182ef6")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C23")
 					(unit 1)
@@ -11376,7 +11376,7 @@
 			(uuid "14c1cd02-7283-4ef3-a497-ad2141a984c8")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR061")
 					(unit 1)
@@ -11557,7 +11557,7 @@
 			(uuid "9634512f-a096-4c66-b527-a1108f60b3ff")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "D7")
 					(unit 1)
@@ -11640,7 +11640,7 @@
 			(uuid "534872c2-b8f6-4d71-8946-c49d0af502fc")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR060")
 					(unit 1)
@@ -11724,7 +11724,7 @@
 			(uuid "f0ad85c7-261c-42aa-80a0-35752e234d50")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR069")
 					(unit 1)
@@ -11993,7 +11993,7 @@
 			(uuid "b464f7e1-9de6-4a90-b286-c48463a55e48")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "U6")
 					(unit 1)
@@ -12168,7 +12168,7 @@
 			(uuid "a4e747ae-bd03-4157-933e-858befe96690")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R21")
 					(unit 1)
@@ -12257,7 +12257,7 @@
 			(uuid "cf211833-33cc-4947-897c-20f2b0e314f3")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "TP13")
 					(unit 1)
@@ -12334,7 +12334,7 @@
 			(uuid "0a315b43-45d1-4bdf-accb-63ab2ff65c0d")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR048")
 					(unit 1)
@@ -12509,7 +12509,7 @@
 			(uuid "dcab3237-1895-4c55-9175-216727eb78ed")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "C20")
 					(unit 1)
@@ -12593,7 +12593,7 @@
 			(uuid "2d2d9a58-a366-4620-a58b-e87c3e442be9")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR063")
 					(unit 1)
@@ -12768,7 +12768,7 @@
 			(uuid "d098cbd9-1865-416d-970f-da7477c117b1")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R29")
 					(unit 1)
@@ -12851,7 +12851,7 @@
 			(uuid "ed8c9730-655a-4df4-8d40-8d6b5b2165fe")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR051")
 					(unit 1)
@@ -13023,7 +13023,7 @@
 			(uuid "14a183ee-d433-42e4-958c-b3b2c77ca786")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "R34")
 					(unit 1)
@@ -13100,7 +13100,7 @@
 			(uuid "1efc6af2-826c-4b30-8340-0696812d9439")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/c76fc600-a423-4f14-bc69-e86c7c986b21"
 					(reference "#PWR050")
 					(unit 1)

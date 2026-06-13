@@ -17,7 +17,7 @@ The board is compatible with the SP7 DIN rail system from [Metaltex](https://www
 | **Peripherals** | 1-Wire Interface, GPIO or 1-Wire master |
 | **Form Factor** | Metaltex DIN Rail Compatible |
 
-![eumesmo-io-24v16ch V6.0](https://github.com/thermseekr/eumesmo-io-24v16ch/raw/main/V6/esp-24v-16ch-v6.1.png)
+![eumesmo-io-24v16ch V6.0](https://github.com/thermseekr/eumesmo-io-24v16ch/raw/main/V6/eumesmo-io-24v16ch-v6.2.png)
 
 ## VERSION HISTORY
 

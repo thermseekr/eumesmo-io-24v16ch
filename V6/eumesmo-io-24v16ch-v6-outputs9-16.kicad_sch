@@ -5,9 +5,9 @@
 	(uuid "544279f0-ea7a-4e22-bbe4-18dc61561521")
 	(paper "A4")
 	(title_block
-		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-02-10")
-		(rev "V6.1")
+		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
+		(date "2026-06-13")
+		(rev "V6.2")
 	)
 	(lib_symbols
 		(symbol "Device:LED_Small"
@@ -1152,7 +1152,7 @@
 			(uuid "cbc0ed86-f995-4abd-82b2-914d2766011e")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "#PWR0242")
 					(unit 1)
@@ -1374,7 +1374,7 @@
 			(uuid "7781d477-882d-4e72-833a-5ee9d3e5b8fb")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "Q13")
 					(unit 1)
@@ -1480,7 +1480,7 @@
 			(uuid "c738cf14-4d11-46bf-9c5e-540e98ea0ef1")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "#PWR0244")
 					(unit 1)
@@ -1674,7 +1674,7 @@
 			(uuid "a3f00db1-9541-4db3-a511-1f816b6af492")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "R117")
 					(unit 1)
@@ -1780,7 +1780,7 @@
 			(uuid "25517e60-cdeb-4300-adce-5e179cf2c200")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "#PWR0243")
 					(unit 1)
@@ -1988,7 +1988,7 @@
 			(uuid "d892d1de-3588-4a5f-b26e-263daf34d9ed")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "R118")
 					(unit 1)
@@ -2207,7 +2207,7 @@
 			(uuid "4272993e-c5b5-47b8-b807-e8bc11bfd662")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "D67")
 					(unit 1)
@@ -2404,7 +2404,7 @@
 			(uuid "08e691e9-668d-4fe4-9bf7-7c137949dd2f")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/118d8d95-c0ce-4d84-8406-4e7809444f6f"
 					(reference "R116")
 					(unit 1)

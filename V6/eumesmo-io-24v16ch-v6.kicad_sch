@@ -5,9 +5,9 @@
 	(uuid "2bc5a21a-1d79-419d-a592-6852cc07b00a")
 	(paper "A3")
 	(title_block
-		(title "ESP 24V 16xIn/16xOut/1-Wire Module")
-		(date "2026-06-09")
-		(rev "V6.1")
+		(title "eumesmo 24V 16xIn/16xOut/1-Wire Module")
+		(date "2026-06-13")
+		(rev "V6.2")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -3800,7 +3800,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "FID1")
 					(unit 1)
@@ -3887,7 +3887,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "FID2")
 					(unit 1)
@@ -4075,7 +4075,7 @@
 			(uuid "dbd7ca2d-e60b-4dd0-95c9-43bb809e9e1c")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "J4")
 					(unit 1)
@@ -4263,7 +4263,7 @@
 			(uuid "7a3282ef-dd08-4c96-8f15-273deeed8bd8")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "J3")
 					(unit 1)
@@ -4341,7 +4341,7 @@
 			(uuid "b5d3147d-4b3c-4bdc-bcb5-0ed258ec8917")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "#FLG01")
 					(unit 1)
@@ -4528,7 +4528,7 @@
 			(uuid "4b4eb517-ed69-4e11-90a0-b5fef12add37")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "J2")
 					(unit 1)
@@ -4615,7 +4615,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "FID4")
 					(unit 1)
@@ -4702,7 +4702,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "FID3")
 					(unit 1)
@@ -4889,7 +4889,7 @@
 			(uuid "7a60c8b0-d28d-4dac-8b28-a68ef7ae9f65")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "J1")
 					(unit 1)
@@ -4967,7 +4967,7 @@
 			(uuid "6dbde478-9240-432d-91f5-a2e99e785f4c")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "#PWR01")
 					(unit 1)
@@ -5136,7 +5136,7 @@
 			(uuid "82ecce81-2d68-4289-a9d8-aecbaf9bc24c")
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "J5")
 					(unit 1)
@@ -5171,7 +5171,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 212.6746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5203,7 +5203,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "27")
 				)
@@ -5237,7 +5237,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 156.7946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5269,7 +5269,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "31")
 				)
@@ -5303,7 +5303,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 240.6146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5335,7 +5335,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "13")
 				)
@@ -5369,7 +5369,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 240.6146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5401,7 +5401,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "37")
 				)
@@ -5435,7 +5435,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 170.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5467,7 +5467,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "32")
 				)
@@ -5501,7 +5501,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 184.7346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5533,7 +5533,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "9")
 				)
@@ -5567,7 +5567,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 170.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5599,7 +5599,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "16")
 				)
@@ -5633,7 +5633,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 170.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5665,7 +5665,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "24")
 				)
@@ -5699,7 +5699,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 198.7046 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5731,7 +5731,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "10")
 				)
@@ -5765,7 +5765,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 184.7346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5797,7 +5797,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "25")
 				)
@@ -5831,7 +5831,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 212.6746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5863,7 +5863,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "11")
 				)
@@ -5897,7 +5897,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5929,7 +5929,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "30")
 				)
@@ -5963,7 +5963,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5995,7 +5995,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "14")
 				)
@@ -6029,7 +6029,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 184.7346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6061,7 +6061,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "33")
 				)
@@ -6095,7 +6095,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-power.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-power.kicad_sch"
 			(at 118.11 60.2746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6137,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "2")
 				)
@@ -6171,7 +6171,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 226.6446 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6203,7 +6203,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "36")
 				)
@@ -6237,7 +6237,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 156.7946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6269,7 +6269,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "23")
 				)
@@ -6303,7 +6303,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 156.7946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6335,7 +6335,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "15")
 				)
@@ -6369,7 +6369,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 198.7046 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6401,7 +6401,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "18")
 				)
@@ -6435,7 +6435,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-i2c.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-i2c.kicad_sch"
 			(at 165.1 114.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6817,7 +6817,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "5")
 				)
@@ -6851,7 +6851,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 198.7046 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6883,7 +6883,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "26")
 				)
@@ -6917,7 +6917,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 226.6446 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6949,7 +6949,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "28")
 				)
@@ -6983,7 +6983,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 212.6746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7015,7 +7015,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "19")
 				)
@@ -7049,7 +7049,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 156.7946 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7081,7 +7081,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "7")
 				)
@@ -7115,7 +7115,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 240.6146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7147,7 +7147,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "21")
 				)
@@ -7181,7 +7181,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-lan.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-lan.kicad_sch"
 			(at 257.81 60.2746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7283,7 +7283,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "4")
 				)
@@ -7317,7 +7317,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 184.7346 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7349,7 +7349,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "17")
 				)
@@ -7383,7 +7383,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 198.7046 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7415,7 +7415,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "34")
 				)
@@ -7449,7 +7449,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs9-16.kicad_sch"
 			(at 153.67 226.6446 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7481,7 +7481,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "20")
 				)
@@ -7515,7 +7515,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs9-16.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch"
 			(at 320.04 212.6746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7547,7 +7547,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "35")
 				)
@@ -7581,7 +7581,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 226.6446 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7613,7 +7613,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "12")
 				)
@@ -7647,7 +7647,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 240.6146 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7679,7 +7679,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "29")
 				)
@@ -7713,7 +7713,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7745,7 +7745,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "6")
 				)
@@ -7779,7 +7779,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-mcu.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-mcu.kicad_sch"
 			(at 165.1 60.2746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7961,7 +7961,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "3")
 				)
@@ -7995,7 +7995,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-inputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-inputs1-8.kicad_sch"
 			(at 59.69 170.7646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8027,7 +8027,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "8")
 				)
@@ -8061,7 +8061,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "esp-24v-16ch-v6-outputs1-8.kicad_sch"
+		(property "Sheetfile" "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch"
 			(at 223.52 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8093,7 +8093,7 @@
 			)
 		)
 		(instances
-			(project "esp-24v-16ch-v6"
+			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(page "22")
 				)
