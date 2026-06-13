@@ -2509,7 +2509,7 @@
 		)
 		(uuid "b06e5530-ee36-4f58-bee0-fa88fa0ce532")
 	)
-	(text "TEMPLATE FOR GPIO ASSIGNMENT\n\n{\"NAME\":\"eumesmo-24V-16CH-V6\",\"GPIO\":[0,3200,0,3232,0,0,0,0,5536,10240,10241,0,0,\n0,5600,0,0,0,0,5568,0,0,0,0,0,0,0,0,608,640,192,193,0,0,0,0],\"FLAG\":0,\"BASE\":1}\n\nSee https://tasmota.github.io/docs/Templates/"
+	(text "TEMPLATE FOR GPIO ASSIGNMENT\n\n{\"NAME\":\"eumesmo-io-24v16ch-v6\",\"GPIO\":[0,3200,0,3232,0,0,0,0,5536,10240,10241,0,0,\n0,5600,0,0,0,0,5568,0,0,0,0,0,0,0,0,608,640,192,193,0,0,0,0],\"FLAG\":0,\"BASE\":1}\n\nSee https://tasmota.github.io/docs/Templates/"
 		(exclude_from_sim no)
 		(at 15.24 133.35 0)
 		(effects
