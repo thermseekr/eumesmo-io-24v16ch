@@ -3,7 +3,7 @@ ESP32 based board with 16x optoisolated 24 VDC active high inputs, and 16x open 
 
 The outputs are based on the MMBT2222A SMD transistor and are rated for a maximum of 500mA, although it is recommended to limit the current to 350 mA for continous operation. If driving inductive loads like relays, a freewheeling diode or a snubber circuit should be used to limit the switching transients and protect the transistors.
 
-Also included is a 1-Wire interface for external sensors. This interface can be switched to connect either to GPIO16 for use with a bitbang driver like the one available in Tasmota, or to a DS2482S-100 1-Wire master for building more complex networks. Selection is made via SW2, according to the description printed on the PCB. Attention: only one dip-switch can be on at any given time.
+Also included is a 1-Wire interface for external sensors. This interface can be switched to connect either to GPIO16 for use with a bitbang driver like the one available in Tasmota, or to a DS2482S-100 1-Wire master for building more complex networks. Selection is made via SW2, according to the description printed on the PCB. **Attention:** only one dip-switch can be on at any given time.
 
 The board is compatible with the SP7 DIN rail system from [Metaltex](https://www.metaltex.com.br/).
 
