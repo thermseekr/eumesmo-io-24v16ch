@@ -1,11 +1,11 @@
-# ESP-24V-16CH
+# eumesmo-io-24v16ch
 ESP32 based board with 16x optoisolated 24 VDC active high inputs, and 16x open collector 24 VDC outputs.
 
 The outputs are based on the MMBT2222A SMD transistor and are rated for a maximum of 500mA, although it is recommended to limit the current to 350 mA for continous operation. If driving inductive loads like relays, a freewheeling diode or a snubber circuit should be used to limit the switching transients and protect the transistors.
 
 Also included is a 1-Wire interface for external sensors. This interface can be switched to connect either to GPIO16 for use with a bitbang driver like the one available in Tasmota, or to a DS2482S-100 1-Wire master for building more complex networks. Selection is made via SW2, according to the description printed on the PCB. Attention: only one dip-switch can be on at any given time.
 
-The dimensions were chosen for mounting on a PCB DIN rail holder from the Brazilian manufacturer Metaltex, check [here](https://www.metaltex.com.br/produtos/suportes-para-pci/suportes-para-pci) for details.
+The board is compatible with the SP7 DIN rail system from [Metaltex](https://www.metaltex.com.br/).
 
 ## Hardware Specifications
 
@@ -17,7 +17,7 @@ The dimensions were chosen for mounting on a PCB DIN rail holder from the Brazil
 | **Peripherals** | 1-Wire Interface, GPIO or 1-Wire master |
 | **Form Factor** | Metaltex DIN Rail Compatible |
 
-![ESP-24V-16CH V6.0](https://github.com/thermseekr/ESP-24v-16ch/raw/main/V6/esp-24v-16ch-v6.1.png)
+![eumesmo-io-24v16ch V6.0](https://github.com/thermseekr/eumesmo-io-24v16ch/raw/main/V6/esp-24v-16ch-v6.1.png)
 
 ## VERSION HISTORY
 
