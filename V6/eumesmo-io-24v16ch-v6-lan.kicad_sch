@@ -9381,7 +9381,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 48.26 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -11627,7 +11627,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "90"
 			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11979,7 +11979,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 176.53 88.9 0)
 			(hide yes)
 			(show_name no)

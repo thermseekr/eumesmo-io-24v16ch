@@ -8662,10 +8662,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "18b03fd6-c86e-48ab-a690-43030bda22bf")
 		(property "Reference" "JP2"
@@ -9578,7 +9578,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "-90"
+		(property "FT Rotation Offset" "90"
 			(at 105.41 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10472,10 +10472,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4118f95c-bd84-4bfd-95ac-69ddbc260c4a")
 		(property "Reference" "TP7"
 			(at 111.76 121.92 0)
@@ -11430,7 +11430,7 @@
 				(justify right)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 121.92 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -12048,7 +12048,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 168.91 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -12414,10 +12414,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "73236091-32ff-4280-90ed-9e9e6f19c6f6")
 		(property "Reference" "TP2"
 			(at 266.7 29.21 0)
@@ -14690,10 +14690,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a4e46a89-9dae-4834-86f1-c15dce2d40ef")
 		(property "Reference" "TP3"
 			(at 50.8 36.83 0)
@@ -17851,7 +17851,7 @@
 				(justify left)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 69.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -18352,7 +18352,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "180"
+		(property "FT Rotation Offset" "0"
 			(at 43.18 85.09 0)
 			(hide yes)
 			(show_name no)
