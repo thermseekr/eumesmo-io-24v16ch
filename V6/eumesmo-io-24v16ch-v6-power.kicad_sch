@@ -11309,7 +11309,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "WHITE/0603"
+		(property "Value" "EMERALD/0603"
 			(at 124.46 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11364,7 +11364,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Hubei KENTO Elec"
+		(property "Mfr" "Everlight Elec"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11375,7 +11375,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "KT-0603W"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11386,7 +11386,7 @@
 				)
 			)
 		)
-		(property "Technology" ""
+		(property "Technology" "LED"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11408,7 +11408,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2290"
+		(property "Vendor PN" "C2984266"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11419,7 +11419,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2290"
+		(property "LCSC Part #" "C2984266"
 			(at 124.46 154.94 90)
 			(show_name no)
 			(do_not_autoplace no)
