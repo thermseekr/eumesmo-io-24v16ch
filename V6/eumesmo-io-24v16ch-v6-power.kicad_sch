@@ -5197,17 +5197,6 @@
 		)
 		(uuid "121e2fe5-3a5f-441c-8bc9-3a95bc8cce01")
 	)
-	(text "V_{F} = 2.68V @2.0mA\nR_{LED} = (3.3V - 2.68V) / 2.0mA\nR_{LED} = 0.62 / 0.002\nR_{LED} = 310 ohm\nUSE C25102 300R -> 2.07mA"
-		(exclude_from_sim no)
-		(at 119.38 173.99 0)
-		(effects
-			(font
-				(size 1.5 1.5)
-			)
-			(justify left bottom)
-		)
-		(uuid "264e2082-ce89-471b-adcd-bf1546b0df9d")
-	)
 	(text "R_{H} = (V_{OUT} - 0,6V) * R_{L} / 0,6V\n\nV_{OUT} = (0,6 * R_{H} / R_{L}) + 0,6\nV_{OUT} = (0,6 * 100k/22,1k) +0,6\nV_{OUT} = 3,31V"
 		(exclude_from_sim no)
 		(at 55.88 160.02 0)
@@ -5272,6 +5261,17 @@
 			(justify left bottom)
 		)
 		(uuid "c4efffed-2ce4-46f8-b655-23e4e72df44a")
+	)
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (3.3V - V_{F}) / R\nI_{LED} = (3.3V - 1.8V) / 680R\nI_{LED} = 2,20 mA"
+		(exclude_from_sim no)
+		(at 120.65 170.18 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0110797-ea8c-4217-bad0-a47344ff8577")
 	)
 	(text "24VDC"
 		(exclude_from_sim no)
@@ -7586,7 +7586,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 124.46 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7652,7 +7652,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 121.92 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -7674,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 121.92 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -7696,7 +7696,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 124.46 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11309,7 +11309,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "EMERALD/0603"
+		(property "Value" "ORANGE/0603"
 			(at 124.46 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11375,7 +11375,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11408,7 +11408,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2984266"
+		(property "Vendor PN" "C2987557"
 			(at 121.92 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -11419,7 +11419,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2984266"
+		(property "LCSC Part #" "C2987557"
 			(at 124.46 154.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11430,7 +11430,7 @@
 				(justify right)
 			)
 		)
-		(property "FT Rotation Offset" "180"
+		(property "FT Rotation Offset" "0"
 			(at 121.92 152.4 90)
 			(hide yes)
 			(show_name no)

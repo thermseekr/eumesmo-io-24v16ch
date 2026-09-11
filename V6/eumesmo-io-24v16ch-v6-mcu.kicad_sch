@@ -2745,6 +2745,17 @@
 		)
 		(uuid "f179b08e-698c-4c57-9709-c6902e199617")
 	)
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (3.3V - V_{F}) / R\nI_{LED} = (3.3V - 1.8V) / 680R\nI_{LED} = 2,20 mA"
+		(exclude_from_sim no)
+		(at 237.49 29.21 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4c3a125-e6b9-4e99-80f1-19c522509989")
+	)
 	(text_box "ESP32 GPIO ASSIGNMENT\n\nPIN	PORT	FUNCTION		COMPONENT\n\n25	GPIO0	AUTO FLASH MODE	0\n35	GPIO1	SERIAL TX		3200\n24	GPIO2	-				0\n34	GPIO3	SERIAL RX		3232\n26	GPIO4	-				0\n29	GPIO5	-				0\n17	GPIO9	-				0\n18	GPIO10	-				0\n14	GPIO12	ETH POWER		5536\n16	GPIO13	MCP23017 INT1	10240\n13	GPIO14	MCP23017 INT2	10241\n23	GPIO15	-				0\n27	GPIO16	DS18X20			1312\n28	GPIO17	ETH CLK			0\n30	GPIO18	ETH MDIO		5600\n31	GPIO19	ETH TXD0		0\n-	GPIO20	-				0\n33	GPIO21	ETH TXEN		0\n36	GPIO22	ETH TXD1		0\n37	GPIO23	ETH MDC			5568\n-	GPIO24	-				0\n10	GPIO25	ETH RXD0		0\n11	GPIO26	ETH RXD1		0\n12	GPIO27	ETH RX			0\n20	GPIO6	-				0\n21	GPIO7	-				0\n22	GPIO8	-				0\n19	GPIO11	-				0\n8	GPIO32	I2C SCL			608\n9	GPIO33	I2C SDA			640\n6	GPIO34	-				0\n7	GPIO35	-				0\n4	GPIO36	-				0\n-	GPIO37	-				0\n-	GPIO38	-				0\n5	GPIO39	-				0"
 		(exclude_from_sim no)
 		(at 111.76 111.76 0)
@@ -4336,7 +4347,7 @@
 				)
 			)
 		)
-		(property "Value" "EMERALD/0603"
+		(property "Value" "ORANGE/0603"
 			(at 257.7465 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4401,7 +4412,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 257.81 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4434,7 +4445,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2984266"
+		(property "Vendor PN" "C2987557"
 			(at 257.81 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -4445,7 +4456,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2984266"
+		(property "LCSC Part #" "C2987557"
 			(at 257.7465 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4455,7 +4466,7 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "180"
+		(property "FT Rotation Offset" "0"
 			(at 257.81 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8212,7 +8223,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "680R"
 			(at 240.03 35.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8277,7 +8288,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF3300TCE"
+		(property "Mfr PN" "0402WGF6800TCE"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8299,7 +8310,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25104"
+		(property "Vendor PN" "C25130"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8321,7 +8332,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25104"
+		(property "LCSC Part #" "C25130"
 			(at 240.03 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)

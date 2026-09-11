@@ -886,7 +886,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "I_{LED} = (24V - V_{LED} - V_{CE}) / 10k\nI_{LED} = (24V - 2.7V - 0,1V) / 10k\nI_{LED} = 2,12 mA"
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (24V - V_{F} - V_{CE}) / R\nI_{LED} = (24V - 1.8V - 0,1V) / 9.1k\nI_{LED} = 2.43 mA"
 		(exclude_from_sim no)
 		(at 154.94 86.36 0)
 		(effects
@@ -1316,7 +1316,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k/125mW"
+		(property "Value" "9.1k/125mW"
 			(at 147.32 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1382,7 +1382,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F1002T5E"
+		(property "Mfr PN" "0805W8F9101T5E"
 			(at 144.78 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1404,7 +1404,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17414"
+		(property "Vendor PN" "C17855"
 			(at 144.78 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -1426,7 +1426,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17414"
+		(property "LCSC Part #" "C17855"
 			(at 147.32 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1707,7 +1707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EMERALD/0603"
+		(property "Value" "ORANGE/0603"
 			(at 142.24 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1773,7 +1773,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 144.78 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1806,7 +1806,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2984266"
+		(property "Vendor PN" "C2987557"
 			(at 144.78 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1817,7 +1817,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2984266"
+		(property "LCSC Part #" "C2987557"
 			(at 142.24 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1828,7 +1828,7 @@
 				(justify left)
 			)
 		)
-		(property "FT Rotation Offset" "180"
+		(property "FT Rotation Offset" "0"
 			(at 144.78 82.55 90)
 			(hide yes)
 			(show_name no)
