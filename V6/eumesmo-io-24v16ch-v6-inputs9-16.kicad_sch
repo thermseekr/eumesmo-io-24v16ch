@@ -1990,7 +1990,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "I_{LED} = (24V - V_{F}) / R\nI_{LED} = (24V - 1.8V) / 9.1k\nI_{LED} = 2.44 mA"
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (24V - V_{F}) / R\nI_{LED} = (24V - 1.8V) / 10k\nI_{LED} = 2.22 mA"
 		(exclude_from_sim no)
 		(at 130.81 123.19 0)
 		(effects
@@ -4935,7 +4935,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 123.19 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5001,7 +5001,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 125.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5023,7 +5023,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 125.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5045,7 +5045,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 123.19 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
