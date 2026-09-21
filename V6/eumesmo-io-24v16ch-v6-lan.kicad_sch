@@ -6582,6 +6582,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 207.01 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52362c38-a099-444e-92b9-e1edb3d50c64")
 		)
@@ -6829,6 +6840,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 245.11 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 245.11 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -7090,6 +7112,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 67.31 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "16cd1b59-7b9d-4b09-a632-1a06e878f9e0")
 		)
@@ -7178,6 +7211,17 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 129.54 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 129.54 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7344,6 +7388,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 80.01 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 80.01 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7523,6 +7578,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 90.17 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0ba690ff-ee20-4da5-ab6d-da84c394dfdc")
 		)
@@ -7679,6 +7745,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 254 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 254 127 90)
 			(hide yes)
 			(show_name no)
@@ -7848,6 +7925,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 73.66 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 73.66 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8114,6 +8202,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 254 147.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5fffb206-b453-4813-a9ea-ba145880702a")
 		)
@@ -8273,6 +8372,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 48.26 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 48.26 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -8456,6 +8566,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 78.74 134.62 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3c5a3fcc-754f-452a-9215-f111bbe8ef79")
 		)
@@ -8621,6 +8742,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 120.65 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 120.65 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8959,6 +9091,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 69.85 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 69.85 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -9392,6 +9535,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 48.26 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19d09fd6-0d12-4d54-994b-aa7d15428be4")
 		)
@@ -9689,6 +9843,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 59.69 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "165eda5f-7543-43cc-a783-2c61e4f4ae2b")
 		)
@@ -9845,6 +10010,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 110.49 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 110.49 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10192,6 +10368,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 228.6 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d9434a59-0784-422c-9e1b-e062c25aa92d")
 		)
@@ -10440,6 +10627,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 154.94 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 154.94 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10709,6 +10907,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 59.69 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a3814a9c-2ac0-458f-998c-6d3d74b0af02")
 		)
@@ -10857,6 +11066,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 129.54 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 129.54 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -11035,6 +11255,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 100.33 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 100.33 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11382,6 +11613,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 248.92 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e68d1ba6-5567-40cd-b038-c74b117eb4de")
 		)
@@ -11628,6 +11870,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "90"
+			(at 252.73 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 252.73 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -11990,6 +12243,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 176.53 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f2e64ae5-e619-448e-a7c5-74f3bdb79aa5")
 		)
@@ -12258,6 +12522,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 48.26 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a602b772-26f1-45aa-8495-febbd7492572")
 		)
@@ -12340,6 +12615,17 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 248.92 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 248.92 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -12589,6 +12875,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 184.15 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 184.15 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12858,6 +13155,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 205.74 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b656a86d-e9ca-43cb-adc3-3106672433c6")
 		)
@@ -13103,6 +13411,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 245.11 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 245.11 137.16 90)
 			(hide yes)
 			(show_name no)

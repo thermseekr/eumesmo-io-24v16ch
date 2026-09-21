@@ -879,6 +879,12 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
           "show": true
         },
         {
@@ -888,15 +894,15 @@
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Reference",
-          "name": "Reference",
-          "show": true
-        },
-        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Case",
+          "name": "Case",
           "show": true
         },
         {
@@ -921,19 +927,7 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Case",
-          "name": "Case",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -961,6 +955,12 @@
         },
         {
           "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "FT Rotation Offset",
           "name": "FT Rotation Offset",
           "show": true
@@ -973,8 +973,8 @@
         },
         {
           "group_by": false,
-          "label": "Package",
-          "name": "Package",
+          "label": "FT Position Offset",
+          "name": "FT Position Offset",
           "show": true
         }
       ],
@@ -983,7 +983,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Package"
+      "sort_field": "${ITEM_NUMBER}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -1044,7 +1044,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "JP1-2,TP1-17,Q1-19,U1-15,SW1-2,C1-66,FB1-16,#PWR1-261,D1-74,L1-3,FID1-4,#FLG1-8,R1-137,J1-9",
+    "used_designators": "JP1-2,Q1-19,C1-66,FB1-16,U1-15,SW1-2,TP1-17,#PWR1-261,D1-74,L1-3,FID1-4,#FLG1-8,R1-137,J1-9",
     "variants": []
   },
   "sheets": [

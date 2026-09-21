@@ -318,6 +318,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92703d74-27e8-48fa-8b92-44a61a0e4943")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 12/")
@@ -642,6 +655,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3032c3ec-dda0-4a66-acbb-73ba0cc2fa38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 15/")
@@ -958,6 +984,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "56db8161-0f6b-4341-9163-b6786fa1535b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fcf15bb2-cbef-4dc9-94d3-80c116b24a37")
 			(effects
 				(font
 					(size 1 1)
@@ -1307,6 +1346,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5baf3557-0be1-400c-9c98-357fbc77a156")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0001965d-90b8-4fc3-bbf3-a3bf56f945e3")
 			(effects
 				(font
 					(size 1 1)
@@ -1678,6 +1730,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cb61b00-7f52-48bf-bea1-51641332ec79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 5/")
@@ -1995,6 +2060,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29186fab-91fe-4fe7-abc3-563d3842b9af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e6e2771-c1ef-4eb7-a5ec-3c57719fc6ec")
 			(effects
 				(font
 					(size 1 1)
@@ -2331,6 +2409,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "80651309-00b5-4540-9d51-f423a131636f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d3ca5b3-dd8e-4bb8-a506-7d6b1fa99b02")
 			(effects
 				(font
 					(size 1 1)
@@ -2681,6 +2772,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ab4a044-b106-4b1b-846d-5a26e9585aeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c27f12c-352d-4466-89a9-dd5d924ac8ba")
 			(effects
 				(font
 					(size 1 1)
@@ -3043,6 +3147,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bf99d27-80c5-47b7-ab03-6e189c993085")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 3/")
@@ -3379,6 +3496,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee6f0bcd-9e60-4ef0-90f0-ee71fb31a9a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/4d28ac3f-a6e4-4ca3-be7f-25a566701291")
 		(sheetname "/Power/")
@@ -3695,6 +3825,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2f1c7fb6-f4d1-4baf-934a-e125c0ff1596")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b487ed1a-93e6-4669-8a56-8a66dee3c38e")
 			(effects
 				(font
 					(size 1 1)
@@ -4020,6 +4163,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d1b9f15a-f551-43de-9822-61edc108ca71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4dc90d8-6e2d-41fe-8ef0-557b8728481b")
 			(effects
 				(font
 					(size 1 1)
@@ -4435,6 +4591,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f07cc750-817b-4b9b-b394-bca68106c9f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1678f5c-f06a-4e4e-b059-b2f8283277d7")
 			(effects
 				(font
 					(size 1 1)
@@ -5402,6 +5571,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2be24d20-b431-43c2-a8cc-ff219f93ea70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b447c0e3-b722-43d2-ab6d-28bcf8c4558c")
 		(sheetname "/Power/")
@@ -5718,6 +5900,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d21c086a-8a83-48a8-b23d-e9520b475a87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" "0,-0.65"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3e881ec-f42f-4ea5-9040-8a2cc0b4c3d6")
 			(effects
 				(font
 					(size 1 1)
@@ -6713,6 +6908,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0ff457e-4c9d-4f20-b9fc-83a205ed4ef6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 16/")
@@ -7029,6 +7237,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5dcabdee-aa14-4b48-8fae-80c8d2e3928a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5a3b4b8-3ee1-4eae-b717-443cd52afddf")
 			(effects
 				(font
 					(size 1 1)
@@ -7359,6 +7580,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01f54aa3-9168-480d-b62c-670902ecc9e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 16/")
@@ -7675,6 +7909,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8643f98-dad7-486f-8a8c-ac4a09050555")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2e54707-f36a-4315-b62b-6da37702f0eb")
 			(effects
 				(font
 					(size 1 1)
@@ -8005,6 +8252,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "889a4864-2d1a-4d18-823f-26a331db5313")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 15/")
@@ -8322,6 +8582,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a9edda99-db47-43f7-a320-41cbea52898e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc0d6f99-6f46-41f2-88f0-62642265a30a")
 			(effects
 				(font
 					(size 1 1)
@@ -8671,6 +8944,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f4b7ff8-995d-463f-8a31-38dc70382377")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "60232971-843a-4bc6-ae1e-ee3a9e1a83a2")
 			(effects
 				(font
 					(size 1 1)
@@ -9042,6 +9328,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66cc191a-1e29-4e5a-a329-4e6f21969db1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 4/")
@@ -9358,6 +9657,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c63056ab-572e-44b9-bc71-795dabccc90c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e0b4556-1908-464a-bd90-d2276e7a4e07")
 			(effects
 				(font
 					(size 1 1)
@@ -9689,6 +10001,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99b119a9-14b0-4030-9714-fb00402c74bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b04f12f7-767f-48ff-aaf7-4deb7cb285f6")
 		(sheetname "/MCU/")
@@ -10005,6 +10330,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ac7aa24-2225-4a6b-b7c2-25ca782470d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d32197e-cc0a-4662-9819-27d1b9695233")
 			(effects
 				(font
 					(size 1 1)
@@ -10335,6 +10673,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9e4b36f-3526-4689-ad03-0e61d48b2936")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 15/")
@@ -10651,6 +11002,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b382dcd2-6446-453f-bb17-70f5270710bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2274ccdc-bbe0-41ca-8dc5-8b40a588ff6a")
 			(effects
 				(font
 					(size 1 1)
@@ -10995,6 +11359,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "121a9792-e8f4-429d-a6b1-3c1b7dc86e00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 10/")
@@ -11312,6 +11689,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2af052a2-ea22-4cc7-a245-69c8b36421cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f568d65-785e-4fe8-8892-3700c035e8a6")
 			(effects
 				(font
 					(size 1 1)
@@ -11642,6 +12032,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3030fea-5ef0-4dad-9b3d-f7abee06e289")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 4/")
@@ -11958,6 +12361,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "507b32b2-b5c9-4a6d-bf22-6dbc50f96066")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3aee4b37-e19d-4aee-8de5-e0ea326119c0")
 			(effects
 				(font
 					(size 1 1)
@@ -12308,6 +12724,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "475d02de-8137-4295-ae2b-a0a989643ca2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "493b0e60-962f-4302-9efd-b45d2f775b4e")
 			(effects
 				(font
 					(size 1 1)
@@ -12672,6 +13101,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec99eed8-faf0-418c-bd1e-44da1294c432")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 10/")
@@ -13015,6 +13457,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2080d4f-fabd-42d3-b7d6-ef882a9a7d6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55027005-3887-4af3-ba85-6a96bd133050")
 			(effects
 				(font
 					(size 1 1)
@@ -13371,6 +13826,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e09ce2c-14f3-4237-9cbb-86bbdb1a1c06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec6537c7-0e27-4401-81f5-fec0b7e384ec")
 			(effects
 				(font
 					(size 1 1)
@@ -13774,6 +14242,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf681ec0-9f5c-4d92-b12d-fcc7d36a849b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/8daa82e7-fdd9-4289-a2ad-847f6b9554e8")
 		(sheetname "/LAN/")
@@ -14090,6 +14571,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "505094ba-c9dd-4a61-899d-6703e7d4320c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b7b5183-d88c-44b8-8aa1-b71d2ef1e58a")
 			(effects
 				(font
 					(size 1 1)
@@ -14513,6 +15007,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b304aef-b40a-4d71-abb1-9aac36cf4d89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 5/")
@@ -14830,6 +15337,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8d054f78-aab2-45a2-8316-ed6a3de9751e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e15e7313-9a9a-4f05-abd2-cd234c8598c2")
 			(effects
 				(font
 					(size 1 1)
@@ -15322,6 +15842,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04a431c7-aef0-4e93-bd1b-002c741cf97f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 7/")
@@ -15645,6 +16178,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a86b36c8-7e28-4ca3-b1d6-1890701a1c3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/88457282-94e8-4909-bbde-f71c644e1f6b")
 		(sheetname "/Power/")
@@ -15961,6 +16507,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "960fc25a-8bb4-47a5-b95d-4a614a6fb40c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb27f757-85fe-4b64-8373-8097ca9b69b3")
 			(effects
 				(font
 					(size 1 1)
@@ -16372,6 +16931,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77fc32a2-5f03-4b15-8d1c-7277e109471a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/cffbe9f3-3e8b-473b-8dab-625d6974687a")
 		(sheetname "/Power/")
@@ -16687,6 +17259,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a66a8ca9-33f4-456f-95b0-43c1ce30890e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baf0238f-cdee-4d91-9f9c-f85800ab557d")
 			(effects
 				(font
 					(size 1 1)
@@ -17030,6 +17615,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc9253a0-fa7c-49f2-b10c-47eca4bcfb34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/3eb7a1f5-394e-4525-a489-76d4ace37bf4")
 		(sheetname "/Power/")
@@ -17361,6 +17959,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "356ee4c6-624e-4ac7-b9d9-6809103f9b32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "997a567d-39c8-44c8-90f5-d4bc44389464")
 			(effects
 				(font
 					(size 1 1)
@@ -17840,6 +18451,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "532de0c1-c470-45e1-9e1a-2d526e1a3989")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 5/")
@@ -18163,6 +18787,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdb72738-bde4-49bf-9dca-a5e23941b0d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 6/")
@@ -18368,6 +19005,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebf60f0e-cb80-4274-85e4-743e1677e47e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -18776,6 +19426,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08e5db01-bec4-4ca9-bbb4-1c7b85de2962")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/f33afa1f-6a42-46d4-9f36-740f194e373a")
 		(sheetname "/LAN/")
@@ -19092,6 +19755,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6414f33b-de9a-4904-b235-e379ce875e5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81720a38-31c8-46ac-8904-11dc7b8079d3")
 			(effects
 				(font
 					(size 1 1)
@@ -19423,6 +20099,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "753ea898-60dc-40bd-bfe3-977493b15fd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 5/")
@@ -19740,6 +20429,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "83f5e2a1-a52b-47de-8d1f-462494e77503")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8519f052-7895-4adb-a078-4cc3a2c7bce0")
 			(effects
 				(font
 					(size 1 1)
@@ -20071,6 +20773,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0968a55-4d31-4890-beb1-b16f91290932")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 7/")
@@ -20387,6 +21102,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7effaad0-860f-4da9-af1b-0179c3b46a46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "851d9eff-7250-4bc1-b79f-c4e23c7dcbaa")
 			(effects
 				(font
 					(size 1 1)
@@ -20810,6 +21538,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "667b31af-98c6-451a-b397-9a186b84a031")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/3d4049e5-6992-47b8-96ee-83e7721e3b6a")
 		(sheetname "/LAN/")
@@ -21133,6 +21874,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a293aff6-ca8b-42ce-94eb-1e88c7b924e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/13b0e2cf-d651-477d-8df6-2482a8bea521")
 		(sheetname "/LAN/")
@@ -21449,6 +22203,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c9036daa-68e9-475c-be2d-944f1ecbbf21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0574d4ca-9fc4-4cb0-8cfa-f0a588a5e715")
 			(effects
 				(font
 					(size 1 1)
@@ -21860,6 +22627,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc62b8d2-1ce2-44ca-abd9-6b3e2e039e56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 10/")
@@ -22176,6 +22956,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "05ea4bd9-7250-4e83-a70e-55c4355a9464")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7b653a3-0aab-49e6-bea3-5d38bfc44ca5")
 			(effects
 				(font
 					(size 1 1)
@@ -22525,6 +23318,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60bc4ee1-5327-4664-861e-090a4e3b319e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c309bf5b-14e1-425f-af89-9d80c281a813")
 			(effects
 				(font
 					(size 1 1)
@@ -22889,6 +23695,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9e335e18-ec33-4f0c-b42e-feebcb4741ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fcd48b3-085d-43a2-b957-1590efd9c407")
 			(effects
 				(font
 					(size 1 1)
@@ -23362,6 +24181,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0ad92012-d8ef-4210-b04a-53e53394387f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bdceba2-95d8-4c53-ad47-59cf17e77e96")
 			(effects
 				(font
 					(size 1 1)
@@ -23993,6 +24825,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9fb9c35-e42f-4388-9cd5-c395f3364d53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/a6997b97-7915-46eb-826f-19d1e0743fa6")
 		(sheetname "/Power/")
@@ -24316,6 +25161,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b75a869-907a-4f46-8164-bc306d1847ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 11/")
@@ -24622,6 +25480,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fa15a12f-2d91-436a-b4a2-a937618bb527")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45d36513-7871-4e18-9277-d2ad688a0176")
 			(effects
 				(font
 					(size 1 1)
@@ -24943,6 +25814,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "106c01c1-0189-4f83-8f20-90c4f26e0b3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9fc758d-7926-4ffb-b59b-dd7199a8e884")
 			(effects
 				(font
 					(size 1 1)
@@ -25379,6 +26263,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd324d7c-8b8a-4447-9584-bb8fc42fb8b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 5/")
@@ -25702,6 +26599,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0150145-e983-4214-adcc-34b6ac8e3341")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 12/")
@@ -26018,6 +26928,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c453dabc-2504-4115-af03-d3893a641c6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae697331-fa1d-4d6c-b2c7-8878a3ef31d9")
 			(effects
 				(font
 					(size 1 1)
@@ -26439,6 +27362,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e1ffb02-3b45-4dba-b4ea-44124aeb43a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/d950b187-a78a-4f3d-a1de-3b841925454b")
 		(sheetname "/Power/")
@@ -26844,6 +27780,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f541add4-a0fa-4087-b0ba-398bd0009dd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/e4a8b76f-c8d9-475b-8687-227778dcea23")
 		(sheetname "/LAN/")
@@ -27167,6 +28116,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58c53c32-e848-49f2-b608-20bb838efcda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/b26f49ff-bcfc-4830-9635-6bd0c14c9743")
 		(sheetname "/MCU/")
@@ -27481,6 +28443,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "70087f20-c837-4e1b-9a6e-fab03c9d00d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0b8fd98-8173-4c2e-a55e-629833ed65f8")
 			(effects
 				(font
 					(size 1 1)
@@ -27831,6 +28806,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3e198708-a1d3-4ff6-81ff-7026453dbe29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78cad69b-6f84-4553-aa97-09b7b9ae2356")
 			(effects
 				(font
 					(size 1 1)
@@ -28192,6 +29180,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c63fdca-a423-4acc-b5f2-1ad85472eec6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 16/")
@@ -28515,6 +29516,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a241e194-019c-436c-a6b7-ae13e92a6e50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 3/")
@@ -28831,6 +29845,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18f0e676-469c-4f48-9622-b13e9d670f24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1be15128-fea0-4963-b1ac-6cc866283f95")
 			(effects
 				(font
 					(size 1 1)
@@ -29174,6 +30201,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06e593b9-b3c7-463e-85be-bb12a8bb6afd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/265a3571-72b7-4e25-8a41-3ee07425f060")
 		(sheetname "/Power/")
@@ -29490,6 +30530,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d427caf8-a22d-4551-9aae-b2d16293eb1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65c16cbb-64d5-406c-bce5-2e672759ba48")
 			(effects
 				(font
 					(size 1 1)
@@ -30051,6 +31104,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "728da967-1fe3-4a6e-9470-148cc6972f20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/cb141cf3-e7d9-40be-a333-2dc8e639890f/782b07e0-6d55-40b0-8aed-b0cfc640c622")
 		(sheetname "/Input 12/")
@@ -30460,6 +31526,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1ca93f9-4290-4518-bcb9-d99126164f68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1933f658-ecb6-4014-89ff-66d71bd71203")
 			(effects
 				(font
 					(size 1 1)
@@ -30888,6 +31967,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db29aec1-be93-4f62-a1e0-6c8458173798")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 4/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
@@ -31252,6 +32344,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e60e1f9f-4dea-4883-aaa1-f28d3ad49ccc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 6/")
@@ -31568,6 +32673,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e634120b-b0a3-4189-ad0e-31b03f03615a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25d66bfb-9603-4db5-99b9-2795304d0ef3")
 			(effects
 				(font
 					(size 1 1)
@@ -31893,6 +33011,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f25fc05-bb43-41f5-a322-3d893e52efae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e0af5db-3cf1-46f9-af1a-70d494c20557")
 			(effects
 				(font
 					(size 1 1)
@@ -32314,6 +33445,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "382f51c7-360c-472e-ae42-07f56cd30767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 8/")
@@ -32629,6 +33773,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "68a76b68-9d3b-44ad-846b-bf218809fdd7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e06341e-01c9-4bce-a87b-0f92988d89e5")
 			(effects
 				(font
 					(size 1 1)
@@ -32972,6 +34129,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6416319-3068-4994-9b45-13a78696f955")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/dfb7aba7-6ce9-4a66-aba5-a4ab3739bc61")
 		(sheetname "/Power/")
@@ -33295,6 +34465,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ceb1151-d8b8-449b-bdd5-3f85eb0ea39b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/24f2c889-6361-40b8-849a-357211b89570")
 		(sheetname "/MCU/")
@@ -33609,6 +34792,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd7261a1-dce7-4ce2-aad5-a30da8c78da3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f910e3bd-35da-46d0-b8e8-c9125680eeba")
 			(effects
 				(font
 					(size 1 1)
@@ -34308,6 +35504,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d47b179-1ce3-4264-a0e3-ab6a9b7e277e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "RJ45*Wuerth*7499010121A*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/877a384e-bf79-4264-b177-325d1e4235fd")
 		(sheetname "/LAN/")
@@ -34913,6 +36122,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9b7400d-6dac-475d-bfc1-1861f81e36b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/f20be6cd-180d-4712-a356-b58279b278ac")
 		(sheetname "/Power/")
@@ -35220,6 +36442,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9e167caa-4304-43a4-8fd2-4519b5045f28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b24eb34a-de02-4c66-b282-963c31f31dc2")
 			(effects
 				(font
 					(size 1 1)
@@ -35542,6 +36777,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6d0aa3e3-aebe-4eaa-93a3-28feafdc2679")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf5d5e29-27c3-49c8-835f-592a24dcc19e")
 			(effects
 				(font
 					(size 1 1)
@@ -35883,6 +37131,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3c8f194-2db6-4156-a3ba-76c6993b3498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/18056315-33f7-480f-bc87-b2b980e3146f")
 		(sheetname "/MCU/")
@@ -36200,6 +37461,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd717e09-8bde-474f-8720-c7ca37b60dde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f719267e-4ebd-44b6-89a4-2276061f805b")
 			(effects
 				(font
 					(size 1 1)
@@ -36550,6 +37824,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c366a631-28ee-429a-959e-7c2ecc04bcf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb5fed0c-a5ae-474e-b381-f2b2c6b1492c")
 			(effects
 				(font
 					(size 1 1)
@@ -36913,6 +38200,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "595e05a1-a5cd-4617-ad00-347b2e593e2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/b9970cc2-1dc3-47b3-92f1-76183e581452")
 		(sheetname "/LAN/")
@@ -37229,6 +38529,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bfd7fe48-712b-44cb-863c-3f94a2b74b74")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "883b901b-190b-408a-9428-ebd5e28bf630")
 			(effects
 				(font
 					(size 1 1)
@@ -37601,6 +38914,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "601b5dd1-5fb6-462b-b05e-26368fcb2fd0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 7/")
@@ -37917,6 +39243,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ad71ae9-c7b6-4d39-9035-c8e94c52a4cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d707ad9-bd87-4c69-8302-d3d9c6c558ce")
 			(effects
 				(font
 					(size 1 1)
@@ -38247,6 +39586,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d248430-2cb3-411b-acd2-cdaabf515332")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 3/")
@@ -38563,6 +39915,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b198a47-b56f-4917-98c9-1f7a80d29901")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af41db5b-2164-4649-a09d-1459a3df0794")
 			(effects
 				(font
 					(size 1 1)
@@ -38893,6 +40258,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec8b5137-f609-4a31-91cc-161f13307720")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/580d97c2-f838-4d84-bbe7-2b006b3ff984")
 		(sheetname "/LAN/")
@@ -39209,6 +40587,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aeca55ec-0a47-482c-a323-b86e4f299e9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47bf6340-cc66-4672-9818-c9e3763c02ec")
 			(effects
 				(font
 					(size 1 1)
@@ -39559,6 +40950,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3257d68-9f79-442d-b16d-2e7bb505544a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "88ab4ca5-6ae0-4953-85d0-30907394bfb3")
 			(effects
 				(font
 					(size 1 1)
@@ -39923,6 +41327,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e821bc1c-5283-49f2-bd45-e161784483e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 14/")
@@ -40237,6 +41654,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3dcc6b9b-0fd5-41c9-8222-433aff67ba1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f832cb07-5892-4544-8df3-61d63f6a40d0")
 			(effects
 				(font
 					(size 1 1)
@@ -40587,6 +42017,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e3e15984-a023-467b-a7d0-274762cb6b12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49b0588a-14b6-46f1-89c6-306d46cfa61b")
 			(effects
 				(font
 					(size 1 1)
@@ -40950,6 +42393,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f1ea972-0480-464b-a414-b43522da110d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 1/")
@@ -41266,6 +42722,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2cd7ccef-d289-449a-a790-9405b3559b26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f40bc692-fe01-45ef-9e52-efb7e7dde667")
 			(effects
 				(font
 					(size 1 1)
@@ -41595,6 +43064,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10e1919a-a3ec-4c5c-8e09-b50e8eaddbf4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 12/")
@@ -41911,6 +43393,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8e3d7f0c-3756-40dc-b97c-b378769c1c6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f25af7f4-71b4-4d35-8cf1-d35fcc89113f")
 			(effects
 				(font
 					(size 1 1)
@@ -42261,6 +43756,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f56e230d-9f83-44ca-af4f-1d8b7352dfdf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abb7c4cb-ea65-43db-be7c-0ebc84119cf3")
 			(effects
 				(font
 					(size 1 1)
@@ -42638,6 +44146,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fca96308-f81d-4e6f-948e-420e261287a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/ec881c08-dba5-4470-a62b-b3202fe188a4")
 		(sheetname "/I2C Devices/")
@@ -42974,6 +44495,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6b80b47-7871-4c2d-ae82-88a97a32bd43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/1da77c5e-09fa-4f10-b227-c9a0c190478c")
 		(sheetname "/MCU/")
@@ -43303,6 +44837,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5fa3cea9-9404-407c-a6bb-079548d87455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3099fb5e-9628-42e7-8296-ce7d8ce7e22f")
 			(effects
 				(font
 					(size 1 1)
@@ -43653,6 +45200,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e13084db-f349-44d9-9454-e6af3f2ec42b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80a9c8f1-85ce-452d-8f67-589b7b5e05d8")
 			(effects
 				(font
 					(size 1 1)
@@ -44017,6 +45577,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1119c1f-c2e0-464b-8c65-754d4b6bc369")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 15/")
@@ -44353,6 +45926,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "497d2204-c185-454d-8040-d2a141cdf4f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7ca24c0f-2468-4efa-8ee6-749df6aa5e15/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 15/")
@@ -44676,6 +46262,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d767dff-94a0-47b3-a272-d962ff86bfe3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/de4bf872-4251-44b2-8d5c-363760cdd1f1")
 		(sheetname "/LAN/")
@@ -44909,6 +46508,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b5c09f8-a178-4bbc-b088-2045de5caeae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/12447a7c-8807-4004-bed1-970e81935a53")
 		(sheetname "/")
@@ -45126,6 +46738,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "92887a2a-771b-457f-9ae9-451f75876e43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2daf1b67-6631-45fc-b31d-f505ea3ae2f5")
 			(effects
 				(font
 					(size 1 1)
@@ -45443,12 +47068,25 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "270"
+		(property "FT Rotation Offset" "-90"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "165226f4-06c0-49ae-9644-30b7dcd748ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cc450ac-991f-4d76-b3e1-e24f9f234d09")
 			(effects
 				(font
 					(size 1 1)
@@ -45896,6 +47534,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0eb29b14-69ae-402a-b401-20bc01109402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4684212-642e-44d9-b935-4d759e8ee741")
 			(effects
 				(font
 					(size 1 1)
@@ -46387,6 +48038,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44baa236-ec67-40bc-a6e4-9d69d11582cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 8/")
@@ -46710,6 +48374,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f9f6fd5-5d69-49a5-9e5d-219383bf5844")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 16/")
@@ -47025,6 +48702,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2afb9b4e-a3f0-4904-9847-969e8539b5e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e642730-c53f-4602-86e0-63adad7de2ab")
 			(effects
 				(font
 					(size 1 1)
@@ -47363,6 +49053,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f25b95c4-d56d-42ce-a1a9-57058353466b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18b9cd7a-e5e4-488a-97c2-ccf4e729b3ec")
 			(effects
 				(font
 					(size 1 1)
@@ -48347,6 +50050,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b759fb1b-1c0d-4f2d-9516-e22b7d1ec12a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 13/")
@@ -48662,6 +50378,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e0dcc98c-e99a-4f00-96b9-dd4dacd3310c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "358e1dc5-eb2e-4788-8f4b-40ea6086959a")
 			(effects
 				(font
 					(size 1 1)
@@ -48985,6 +50714,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf8734a1-2a65-454f-a526-68881b841754")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ecda38e5-e30b-4229-a41f-3dfecca01cfd")
 			(effects
 				(font
 					(size 1 1)
@@ -49335,6 +51077,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e3b65179-705c-4a5b-bf3d-c11b52d8d7b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "133a97f6-11a8-418c-8172-d6ef18ae9357")
 			(effects
 				(font
 					(size 1 1)
@@ -49698,6 +51453,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27a66d2a-a941-49cf-a3e4-6ba866174d1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 10/")
@@ -50027,6 +51795,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25730cd5-94a8-44d1-b63a-227bd5b189d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e141848-4958-4b69-97fe-8029ab6cb69f")
 			(effects
 				(font
 					(size 1 1)
@@ -50370,6 +52151,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0b17b4f-19e9-4ada-9e8d-516200e00e59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/16d58df6-a2fa-4bcb-ae1d-740816672830")
 		(sheetname "/I2C Devices/")
@@ -50686,6 +52480,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1bfa8a0d-0c83-429f-94c3-19f433b1db66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "824ad57f-fb1d-4416-afd7-3ac6b156c8cf")
 			(effects
 				(font
 					(size 1 1)
@@ -51109,6 +52916,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28f5a425-50ea-440e-9847-d9d012d58a32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 8/")
@@ -51425,6 +53245,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "09fe83c0-80ef-4415-be60-844008bbf97c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98086796-65c8-45d4-8ae9-1fad96da6d03")
 			(effects
 				(font
 					(size 1 1)
@@ -51769,6 +53602,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae6a1870-f4b8-44b7-9385-e2765db0c88b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/3b5ba956-c81c-4c4a-be5d-0b9a8e92db1a")
 		(sheetname "/I2C Devices/")
@@ -52085,6 +53931,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9364952f-7f10-40a9-ac95-fe047f8f21b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37cb2bc7-8316-4012-bdce-3b31460bf46c")
 			(effects
 				(font
 					(size 1 1)
@@ -52429,6 +54288,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fe63e95-d971-49e0-b7e8-9e6ee947af86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/6dba052a-0c92-4255-b5de-9657f6e17dc7")
 		(sheetname "/MCU/")
@@ -52745,6 +54617,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "34437742-2360-4ea4-b002-d36d3a337b5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83b69e8b-5beb-4807-a4f4-ca842cbde7cb")
 			(effects
 				(font
 					(size 1 1)
@@ -53075,6 +54960,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95ff4747-31e4-4f8a-abb8-e22c11cc879d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/d28bce4c-aead-43de-9a90-592b77eff756")
 		(sheetname "/LAN/")
@@ -53392,6 +55290,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1876ddbf-6503-4451-9396-590855a34c57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "287ff7dc-add6-4dce-8a40-75a618a5f7bf")
 			(effects
 				(font
 					(size 1 1)
@@ -53774,6 +55685,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72579dc3-bc2f-4113-819e-9d803fa88111")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 4/")
@@ -54130,6 +56054,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "099304fe-d74d-454c-816d-610fd637243e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/7ac7667b-d77b-4834-9dd7-8a4771ada401")
 		(sheetname "/I2C Devices/")
@@ -54465,6 +56402,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e179fe01-bba8-459e-809f-6404a63a6617")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/336a78c5-a044-4432-96b2-e658a1091374")
 		(sheetname "/Power/")
@@ -54781,6 +56731,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ee09cd7-f62c-400c-8d67-1959bd1a340e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31b75086-f458-42d0-9dd4-49c99d219fba")
 			(effects
 				(font
 					(size 1 1)
@@ -55131,6 +57094,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1999399-1336-42a8-b3d4-2ff22fcb1481")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c58102d8-acf6-464b-b406-091d713ad722")
 			(effects
 				(font
 					(size 1 1)
@@ -55521,6 +57497,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "457d9a13-5172-473b-b556-d049ad1f96bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 16/")
@@ -55878,6 +57867,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57b984ff-00da-4720-b53d-fde189eb017b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 12/")
@@ -56201,6 +58203,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d7e6e9c-0f9b-4eea-b17b-3858b9bb0df1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/068e1ed4-afa8-41c4-9ab1-7484b3769aff")
 		(sheetname "/LAN/")
@@ -56428,6 +58443,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1269a519-6c1c-4369-a4a0-0948fb6b0fbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74a4d91d-ca46-4c5e-8066-8b33058a3d2b")
 			(effects
 				(font
 					(size 1 1)
@@ -56679,6 +58707,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "90f5ed9b-cc1b-4d9e-9f03-622ec00a7a0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f47d501-249b-4d08-a432-891d9a5d6b08")
 			(effects
 				(font
 					(size 1 1)
@@ -57069,6 +59110,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1af5096-0e8a-438e-a525-cb36ec40323c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 7/")
@@ -57425,6 +59479,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7df8c10-21f8-487d-987b-035b2a7fdbe3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 2/")
@@ -57748,6 +59815,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a1bbcde-2eb9-4cf0-a839-a0159d713153")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/7e9a8e79-ec11-4303-b315-137a7563cb40")
 		(sheetname "/I2C Devices/")
@@ -58064,6 +60144,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "850d17d2-f8ea-45ac-a93c-c7e9f8a169a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0d327f6-e55a-4ac8-862d-4d8a835dc2dc")
 			(effects
 				(font
 					(size 1 1)
@@ -58585,6 +60678,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fe304d9-d134-4a1a-82de-da5d2d35d3de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/5dcf2f69-23aa-485a-b00b-e2a14ba71424")
 		(sheetname "/Power/")
@@ -58968,6 +61074,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c035516-09c2-4435-b609-150bd090d88b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 2/")
@@ -59323,6 +61442,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6d7336e-8e8d-4fd7-a021-4e79c5bb990a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 10/")
@@ -59665,6 +61797,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5b9551f-4b5d-44ea-8e21-c7ae756e55a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e0ae80a-ac00-497f-a412-333775745f4d")
 			(effects
 				(font
 					(size 1 1)
@@ -60036,6 +62181,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c414302a-a44b-46e9-b93e-50b4fac99824")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 1/")
@@ -60372,6 +62530,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e4f7395-a48e-4fc5-9098-bd4af99e9643")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/29ecd6f2-d5b8-4407-8569-e6a312cf3fa8")
 		(sheetname "/Power/")
@@ -60688,6 +62859,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "990460db-81cd-4274-97cc-b84d3d48568f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d444dfaa-c2d8-4de0-a322-c1579af6954e")
 			(effects
 				(font
 					(size 1 1)
@@ -61031,6 +63215,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ac05399-8fd2-4d7f-9fa8-0ad072c013a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/ca5770ac-d0fc-4158-b3d0-f2f871a9f475")
 		(sheetname "/Power/")
@@ -61347,6 +63544,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "580b22b9-e652-4287-8ae6-5b1de0958b19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "555e3875-3ba1-4513-97a0-4d8f801adcb9")
 			(effects
 				(font
 					(size 1 1)
@@ -61837,6 +64047,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7d97764-fd56-4b1e-8d68-f929fd3953bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/6a108420-26c0-4519-a0a9-da878009ceb8")
 		(sheetname "/Power/")
@@ -62160,6 +64383,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ceb643c5-3aa4-499a-97cf-ec7dd8ee8673")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/25c70f50-017c-4bcc-acb5-84c7cb4acbc3/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 4/")
@@ -62476,6 +64712,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2f5a760a-7b4a-4996-a2c5-ce32d136051b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ce97939-f0f2-4023-8d95-0039e2dbe0a2")
 			(effects
 				(font
 					(size 1 1)
@@ -62819,6 +65068,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de7f3544-3b67-402f-a25e-96f71681154a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 1/")
@@ -63142,6 +65404,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "deb74ba4-3696-4e64-b9d5-8da4ef3696ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 9/")
@@ -63458,6 +65733,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1d83e882-ad1d-4629-ad25-70e4b0c66914")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01609fe7-c817-45c7-9a9f-559c6923bb8c")
 			(effects
 				(font
 					(size 1 1)
@@ -63808,6 +66096,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25ea3ef5-bdb2-4136-9822-1f15c074cc66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b629bb8-989e-41ff-954f-be2fc7643af8")
 			(effects
 				(font
 					(size 1 1)
@@ -64198,6 +66499,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbc09176-8003-4a6f-9328-e2a5cd1ec952")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 3/")
@@ -64580,6 +66894,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50b53b49-83a1-4774-9936-682750bbda71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 6/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
@@ -64943,6 +67270,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "839ffaa6-e480-402f-9a2a-04718c2111c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 6/")
@@ -65249,6 +67589,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4e9eb6f-ac5c-459f-aa7c-4ced9e5b8bc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30dfd712-826e-4ee9-b3a5-d31a99f37b76")
 			(effects
 				(font
 					(size 1 1)
@@ -65596,6 +67949,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0626e1a9-0f99-4bfd-afe3-8ab472250302")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69691ff7-adda-42ce-bca7-b8ec4803aa7c")
 			(effects
 				(font
 					(size 1 1)
@@ -65967,6 +68333,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af6da54e-bde2-40a0-b951-9393593efddd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 8/")
@@ -66310,6 +68689,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dea153a9-37ee-4ccc-a65e-605a3d4d38a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cd2b37f-a208-45d3-8b3b-371d4d709312")
 			(effects
 				(font
 					(size 1 1)
@@ -66673,6 +69065,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03d00662-17db-4991-ae50-102f6bb04e58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3bddd7f0-432c-4f3f-ac0a-69652e55cc15/e3ed1119-be23-4e95-9c06-950ba63e5eca")
 		(sheetname "/Input 5/")
@@ -66990,6 +69395,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb8f56d0-3053-4cf6-ab9b-c876ea266296")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4635c2a0-cd57-4246-9fdd-052d4630967c")
 			(effects
 				(font
 					(size 1 1)
@@ -67320,12 +69738,25 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "0"
+		(property "FT Rotation Offset" "180"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b2f01d1-5ffc-44a9-b033-2851d1f23b9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40a6307d-6344-445f-bf77-2c1e62ac5220")
 			(effects
 				(font
 					(size 1 1)
@@ -67887,6 +70318,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c295b2d-7de0-46d4-916b-26947303c8df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/960299f6-0313-42e3-ae4e-88ee8e6595dd")
 		(sheetname "/Power/")
 		(sheetfile "eumesmo-io-24v16ch-v6-power.kicad_sch")
@@ -68251,6 +70695,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f54d192-8eb9-4a61-be49-6d7228e19739")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 13/")
@@ -68593,6 +71050,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c359605-e00e-4d9c-aaa5-e2e41e0339d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3fb7fc9-6255-4a01-a14a-873891cdbcbc")
 			(effects
 				(font
 					(size 1 1)
@@ -68954,6 +71424,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c453dbbf-e3bc-4cf9-98f6-590dd2c82436")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 1/")
@@ -69270,6 +71753,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "171d052a-f540-4e88-897b-cbc86f326bea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a4d0de6-e411-4d13-934f-2db26ded778c")
 			(effects
 				(font
 					(size 1 1)
@@ -69613,6 +72109,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0f8264c-71a1-44f7-8d49-7cadc2a86b0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/a75ff9c3-4e95-417f-b599-8037e57f0b76")
 		(sheetname "/MCU/")
@@ -69927,6 +72436,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "790005f8-3f43-4e58-9cef-49169936cb6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d931aa33-9020-42ad-a96e-959aa4943c09")
 			(effects
 				(font
 					(size 1 1)
@@ -70257,6 +72779,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a20ceb9f-8e1f-4a61-9a95-7d614ad61352")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 10/")
@@ -70573,6 +73108,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "71b42522-a29a-4144-b89f-6abb5e154856")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40a6c97e-a10e-467e-b9b6-50f332777006")
 			(effects
 				(font
 					(size 1 1)
@@ -70996,6 +73544,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05ae3a17-467c-4662-b2ef-ac86c9ecf015")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/090489a3-854b-4139-a37b-af75c75f2149")
 		(sheetname "/MCU/")
@@ -71319,6 +73880,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "952fe0b4-8536-4b90-bbec-7f63a74daedc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 9/")
@@ -71635,6 +74209,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "db36f54e-08b1-4ac3-90ed-5ad468455781")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db23c0a0-e46a-4298-857c-6b9be781d08e")
 			(effects
 				(font
 					(size 1 1)
@@ -72058,6 +74645,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ec7fbfb-aabe-45f4-a42f-68ab3cd2bebe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ad3d18f6-6bf3-4419-a19f-d246dbccbcac/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 2/")
@@ -72373,6 +74973,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c31e244e-7d9b-417b-b487-8385f35ebe76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bce77869-d87d-47ba-99c9-01ca674f944b")
 			(effects
 				(font
 					(size 1 1)
@@ -72702,6 +75315,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "803a0662-cfec-4901-a6ec-94c77f6da48b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7e58906f-db1c-4ecb-8d31-ce9f4ea8e299/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 2/")
@@ -73018,6 +75644,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c2f1785f-870f-4b72-be74-69d36ff23b00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4507b44c-85ee-4927-92fa-60b18ee33059")
 			(effects
 				(font
 					(size 1 1)
@@ -73361,6 +76000,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2b08478-60a1-40ae-b974-f135c203158d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/f9a35d03-6941-4cda-bb78-859cc1aa9a4d")
 		(sheetname "/MCU/")
@@ -73677,6 +76329,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d99412ce-55c0-4313-b649-a5516432ea3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a31e2923-2a7d-4e74-89ba-c6c1226082ee")
 			(effects
 				(font
 					(size 1 1)
@@ -74026,6 +76691,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45b71601-6b48-4202-a0d3-7b1fea1e8c53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "445b2a87-9b43-47c1-8de0-204e0d161a14")
 			(effects
 				(font
 					(size 1 1)
@@ -74389,6 +77067,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85fe033c-0435-471b-881b-a95d3215c45b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/da9e1ae2-f099-4806-bcb3-ae57d89b817a/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 15/")
@@ -74705,6 +77396,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "81b01292-418c-499e-8664-e1cb50cfd9b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df3ad838-f15c-4969-8b49-c29b85dea319")
 			(effects
 				(font
 					(size 1 1)
@@ -75048,6 +77752,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd2bfa06-0f36-4c71-9e15-ab3616314e71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/2c5d9a3a-d825-48b6-8c17-52fc6baaff30")
 		(sheetname "/Power/")
@@ -75363,6 +78080,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7268ccbb-513d-45f9-933e-7202d6643615")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ad38ced-0e03-452c-9b48-f48e1b5f2aaf")
 			(effects
 				(font
 					(size 1 1)
@@ -75686,6 +78416,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cf98c18e-764b-4dc0-aadc-f10cd5b88d7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f804cd9-da45-4dec-a37f-4662f57177e1")
 			(effects
 				(font
 					(size 1 1)
@@ -76135,6 +78878,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe97f2ff-ce29-41c6-a232-f4a041c25a8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 9/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
@@ -76492,6 +79248,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0aa3b837-506a-497c-8409-98e1a854ffa6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6de70be-61f5-434a-b2a2-c02a57eef35f")
 			(effects
 				(font
 					(size 1 1)
@@ -76915,6 +79684,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cb2b2e2d-b0cf-4709-bbd0-9cdb3976d6e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 7/")
@@ -77331,6 +80113,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5584f0c1-dae4-4466-b511-94934ce0efa3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 9/")
@@ -77647,6 +80442,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "68e1a07a-9ac7-4a87-836f-39654d1dbf0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b94db51-9073-43ca-8ea5-bd7ede9a27d0")
 			(effects
 				(font
 					(size 1 1)
@@ -77977,6 +80785,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10b6e523-76f3-4762-bb7f-29e00d878112")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/5e3f413e-e7e6-4fed-8c23-676455a39ccf/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 9/")
@@ -78293,6 +81114,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a31b81e0-642b-4a39-88a5-e0b28c038ad5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f9d7ef9-af4d-4e34-8970-67ceefbc5fee")
 			(effects
 				(font
 					(size 1 1)
@@ -78643,6 +81477,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "014da295-8b5c-4e88-9072-c947f6ccd13c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4136dbdf-f6c7-4311-9fcb-621aa269ee44")
 			(effects
 				(font
 					(size 1 1)
@@ -79005,6 +81852,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c56d6faa-6981-4907-9adb-d4b4bb6650d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/dbf038c9-8c09-4484-aee5-b965d923f833/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 14/")
@@ -79321,6 +82181,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "307ca46c-78d3-4d2a-b7f7-f6ea115eb247")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4256793c-86bf-4c82-9e86-de4e89bd0315")
 			(effects
 				(font
 					(size 1 1)
@@ -79651,6 +82524,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cfffd63-b510-4412-968e-21415f17ae40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 8/")
@@ -79966,6 +82852,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63968da7-bb68-4732-870c-7b8210ad9be1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ab372d2-0096-4495-9b9b-1c5f48d923ff")
 			(effects
 				(font
 					(size 1 1)
@@ -80296,6 +83195,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d390bf1a-8561-483d-89bf-99557f0747c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 8/")
@@ -80614,6 +83526,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0314e9e4-038e-44e1-a351-11b084bef033")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03c960ff-d6b9-4aa6-8961-6190ad5e87c4")
 			(effects
 				(font
 					(size 1 1)
@@ -81062,6 +83987,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "467a2f74-023e-453c-851c-b947a021289b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/118d8d95-c0ce-4d84-8406-4e7809444f6f/d6da1840-4ac2-462d-8f56-46cf9ac2a71c")
 		(sheetname "/Output 10/")
@@ -81416,6 +84354,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "239eed42-fc02-4c5d-8871-8c203636e220")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/e5a4d3fb-ca38-46a0-b486-cab0a698bc8d")
 		(sheetname "/Input 1/")
@@ -81649,6 +84600,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af0a7a97-c3b9-4ff8-a403-3b6162962e3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Fiducial*")
 		(path "/29a3f34f-5d9e-430b-a539-2b12d1920b4d")
 		(sheetname "/")
@@ -81867,6 +84831,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "512e75aa-5b51-4caa-9566-c743fca8d329")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c28f83d2-5cd9-4881-b139-bb8843cb28a7")
 			(effects
 				(font
 					(size 1 1)
@@ -82192,6 +85169,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f47e7567-00ff-40fd-9115-95b3bb412f09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7c6db02-19ef-4886-ad6a-fa204dfb3b04")
 			(effects
 				(font
 					(size 1 1)
@@ -82612,6 +85602,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8cda6a9e-dc87-4f6b-b529-15a89188923c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/827c07d6-f3fd-4d01-af31-6187e55552da/e8625cf4-08e4-4f91-94d0-1e67dd1954d4")
 		(sheetname "/Input 10/")
@@ -83023,6 +86026,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d3470a9-10bc-4b3c-bd77-c2e77531b02e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/d79ac9b3-e6f8-43a2-abd6-675640bd9f9e")
 		(sheetname "/Output 11/")
@@ -83346,6 +86362,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "835d253b-2aa8-4aab-a24d-0d52cc757db0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f221a330-0446-4dbb-9fc4-488df890c8d3/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 1/")
@@ -83649,6 +86678,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "916ec87b-219a-4ecb-a033-c896e7f082dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d67cfbc9-c5a0-436d-90b6-d68eb59e687e")
 			(effects
 				(font
 					(size 1 1)
@@ -84260,6 +87302,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c22d5ed3-9b21-4a3a-bebd-7b16d57fbce7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ef25398-7f86-4dc5-abee-16b9dd477d39")
 			(effects
 				(font
 					(size 1 1)
@@ -84954,6 +88009,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "555ae671-2d75-411a-a0d5-e0dddb0f9234")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/0477bac7-050f-4ea2-82f7-1767d9e733d4")
 		(sheetname "/Power/")
@@ -85271,6 +88339,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3fe197d-eabb-45be-a26d-be6666f4a381")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efec26ce-d1a2-41d0-a654-2882e8a7132c")
 			(effects
 				(font
 					(size 1 1)
@@ -85601,6 +88682,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a62402ae-59c8-4c43-ba13-a288df6dcf13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 7/")
@@ -85917,6 +89011,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9aa6e443-8c54-4e1c-92e5-d1ce12a35b9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "499b1a49-620e-43f5-8799-4fcaeb38f1b4")
 			(effects
 				(font
 					(size 1 1)
@@ -86353,6 +89460,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ff48f66-df84-4611-bb04-4933b3e6024a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/8bb693e4-c722-4d34-91f1-7ed93ecd3862")
 		(sheetname "/I2C Devices/")
@@ -86669,6 +89789,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7da1c59-7a3c-40e1-b5a2-923df4dfef6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b02c38d-7672-48bb-a2b0-acb05b26bc87")
 			(effects
 				(font
 					(size 1 1)
@@ -87013,6 +90146,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1fcb324-034d-433e-86f5-d81230dbf7a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/11553f93-540d-4e39-80dd-cd7d334cc8db")
 		(sheetname "/Power/")
@@ -87314,6 +90460,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1fdf856d-d65d-429d-8aa9-22870010da29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b42933ec-068d-4733-a379-91e05f6743d2")
 			(effects
 				(font
 					(size 1 1)
@@ -87830,6 +90989,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66f44205-dc93-45f0-8b9f-ed44019176e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/5f27297c-4841-4010-bc19-a6f85dd6b3bd")
 		(sheetname "/I2C Devices/")
@@ -88166,6 +91338,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b507344d-7e73-4ed4-881c-a25b64a73adb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/609d2beb-47a4-466a-8275-c7d831b810a1/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 12/")
@@ -88490,6 +91675,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "638e7923-61da-481d-b435-ed3ce6461785")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/f6c748e6-9b1e-4b33-a538-ad6ca32222da/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 3/")
@@ -88806,6 +92004,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65400503-9b43-4ae0-991b-d9dafd890e01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b1bdb84-f51a-44f6-9366-75b54b8f1ad6")
 			(effects
 				(font
 					(size 1 1)
@@ -89229,6 +92440,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1133ba9f-fc0f-49ea-b95e-95f28557381c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 13/")
@@ -89545,6 +92769,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb4a39b8-c9bc-4697-b020-4f96fe24d285")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e45487a6-5644-418e-8e1f-664931adef12")
 			(effects
 				(font
 					(size 1 1)
@@ -89888,6 +93125,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c25ebc78-2534-47af-b21d-d08c6219c369")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 7/")
@@ -90217,6 +93467,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "30d92ecb-1008-47b4-aac8-b7ebca1fef0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51e6e2d0-0707-4587-b0f4-cd16e289e3d4")
 			(effects
 				(font
 					(size 1 1)
@@ -90567,6 +93830,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3c08b259-9829-4809-b12c-b9b0c2ec62ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dccc96ee-43cf-419b-8448-a0ad761a964b")
 			(effects
 				(font
 					(size 1 1)
@@ -90956,6 +94232,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a804f6fb-3b8d-4da4-a817-88f507789757")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/18f82f59-0c23-40f7-8b4c-a32f0bda1493/15e51e54-2f53-4df7-b453-c0c4f32acd7d")
 		(sheetname "/Output 16/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs9-16.kicad_sch")
@@ -91320,6 +94609,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9100420d-5347-4e64-88b1-159dac8bffea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/dcf656f2-78f6-4d34-a979-fbebc99d5b8c/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 7/")
@@ -91636,6 +94938,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0b333ed8-eb44-4439-a167-02e88ba9cfbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "37d7f570-c633-47fc-8efa-d1e508ef1065")
 			(effects
 				(font
 					(size 1 1)
@@ -92163,6 +95478,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af75e0b5-76d6-44ef-88ed-19be8b85419c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/eb1c7358-5b7b-407c-b4d9-afb866dfe9e1")
 		(sheetname "/Input 6/")
@@ -92478,6 +95806,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aa4e71fc-42ab-455d-b9cd-077582bb9d6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cee7359b-3fc8-4346-a828-b0a58817150a")
 			(effects
 				(font
 					(size 1 1)
@@ -92814,6 +96155,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9dfe9a14-ca66-4210-a8d5-78cd529af623")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2f7fe65-3cec-4dd6-9d48-498865d95630")
 			(effects
 				(font
 					(size 1 1)
@@ -93158,6 +96512,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cae8a9cf-8ebf-42ee-880e-47396b6347af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/343a0a4c-a7af-4831-827e-8974172f64cb")
 		(sheetname "/I2C Devices/")
@@ -93481,6 +96848,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83f261b7-e1f2-4e68-b8ff-eed115dec789")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/cb47cb57-6d87-4191-a03e-a3467c457d5c")
 		(sheetname "/I2C Devices/")
@@ -93796,6 +97176,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a031d49-e043-4d76-aaa6-fcf97272771c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c44737a-f7bf-4e3a-9e98-fec66e2cb5a5")
 			(effects
 				(font
 					(size 1 1)
@@ -94146,6 +97539,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "af5b1f89-734e-4cf5-bd22-b45929cbda57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1db92489-598c-4127-895b-78a8f77e9a45")
 			(effects
 				(font
 					(size 1 1)
@@ -94509,6 +97915,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db4a5f8f-45f2-485a-8b2d-d9e236ea5716")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/8d077a9f-857f-46f5-a4a5-f2e295ec3f36")
 		(sheetname "/Input 11/")
@@ -94825,6 +98244,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "adfaa948-f911-4910-9743-db1d8d04ec9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43241081-6fca-4d75-8498-9dbb4890f9f2")
 			(effects
 				(font
 					(size 1 1)
@@ -95182,6 +98614,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a5fd59c-fa1b-47a7-83e6-3d6451408251")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9735d90e-9107-44ae-97cf-e90e1d690a19/c194517f-71ea-4f31-bb71-4d1fef2e61cf")
 		(sheetname "/Output 7/")
@@ -95531,6 +98976,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3439dc4-a705-4db1-99fe-28e532954736")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdd22430-1485-433c-b4c9-3eda1a72c0c9")
 			(effects
 				(font
 					(size 1 1)
@@ -95942,6 +99400,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ac853c6-22f5-499c-a36a-deb7c7fbbbef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/b455683b-0932-4472-99c1-006fcb6b19b7")
 		(sheetname "/LAN/")
@@ -96257,6 +99728,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "88471c8b-4d2a-4f2e-8400-f8061d18eda0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a38b7b2-659c-4650-9f70-95ba7d2ddbce")
 			(effects
 				(font
 					(size 1 1)
@@ -96601,6 +100085,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "048348c3-32a2-4e32-a426-38e3e2d1fee3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 11/")
@@ -96924,6 +100421,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "184d5077-187b-46c9-a2e5-d91a18a7008d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/c920d5dc-5c76-40a6-a2f6-d2b50199c839")
 		(sheetname "/LAN/")
@@ -97240,6 +100750,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7e47d673-3375-425e-b8d1-94c33a1dac28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29c5b8f8-2dd8-4f12-b45c-611a24ef9b40")
 			(effects
 				(font
 					(size 1 1)
@@ -97589,6 +101112,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "97b4d1f7-64fb-4104-a5bb-37e5b5ff1cb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fa0346b-2986-443e-b8b8-49ebfae80989")
 			(effects
 				(font
 					(size 1 1)
@@ -97987,6 +101523,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "461b992a-859a-4076-bd69-b27b8b5e07fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 6/")
@@ -98343,6 +101892,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29512350-8688-465b-8216-311c387a719b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/74985c46-3862-4700-8519-fdfdf55fd972")
 		(sheetname "/Input 6/")
@@ -98666,6 +102228,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c97ee89d-d704-4f8d-805d-c3514febb97e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 16/")
@@ -98979,6 +102554,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6059801c-a76b-4f86-843f-1a1b918b645d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89e2c34e-f5f7-4aba-a6a9-90e381df1d72")
 			(effects
 				(font
 					(size 1 1)
@@ -99495,6 +103083,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9eb7271d-1313-4dba-90be-696dc1b54852")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/4018a067-9c12-4ee7-b330-547bc1f8e200")
 		(sheetname "/Input 14/")
@@ -99811,6 +103412,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "93c1eec7-d332-446c-925c-d1ce989609a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da638173-bcb5-4879-9729-7d45b8f1ec80")
 			(effects
 				(font
 					(size 1 1)
@@ -100140,6 +103754,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4a91f1c-e70c-4127-a8d9-61585a9c3df2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/80247bc0-5404-43b0-8ae8-ee5c57713d56")
 		(sheetname "/Output 3/")
@@ -100456,6 +104083,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "65a5199e-7f82-4df3-bc15-28d54e23ab18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd96b5b2-663c-4326-9926-a57bb592b963")
 			(effects
 				(font
 					(size 1 1)
@@ -100805,6 +104445,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c01b03d7-aa3f-4ca4-9632-d1052254bbe7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85c38b72-7205-4b0d-8e5d-d3f10e6a9ec5")
 			(effects
 				(font
 					(size 1 1)
@@ -101169,6 +104822,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "259276a4-554f-4d97-bca1-4d08f6c1521b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/da3c2bc1-d321-4b0b-8d45-9bd0460c9e5a/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 13/")
@@ -101511,6 +105177,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc047726-db13-4ac7-a59c-bbc23d7829f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cf0dfdd-9e10-4658-83c8-a8fa0c15be88")
 			(effects
 				(font
 					(size 1 1)
@@ -101869,12 +105548,25 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "270"
+		(property "FT Rotation Offset" "-90"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd1de7b4-a865-4937-b721-46946a30b9fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7882660-197f-411c-ad4b-9930d403d039")
 			(effects
 				(font
 					(size 1 1)
@@ -102371,6 +106063,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a83a7d75-8b5e-4f1e-ba61-7585adc0f092")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/e60387c2-ff32-4f13-8333-29fcaf386447")
 		(sheetname "/Input 13/")
@@ -102857,6 +106562,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d09b2af1-eaec-414f-b5ef-16a25b11f934")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/062944d1-bba2-4d1c-a58e-d08f093e6976")
 		(sheetname "/Input 8/")
@@ -103273,6 +106991,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "260f020b-bf51-4ee9-a1ca-d7043def9989")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f859c883-9d79-4035-b255-4f20ee57230d/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 1/")
@@ -103609,6 +107340,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d97ce50a-5431-4bf5-9d61-7924c1128028")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3a243df8-db7d-4641-87d2-b8850c504ddf/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 3/")
@@ -103925,6 +107669,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85eaf034-340e-4b5b-90ab-826a2a6381a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "befb96c3-8140-4131-aa3f-04cb3b0390fd")
 			(effects
 				(font
 					(size 1 1)
@@ -104249,6 +108006,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca8abfc3-b989-4dbe-892a-b9c027f938e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0721464c-da87-42a5-b08b-673e0177f254")
 			(effects
 				(font
 					(size 1 1)
@@ -104608,6 +108378,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6a7d365d-b376-40e0-9fd6-faec2f5fb845")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e62f58a-6375-4f6b-bf6e-0d199fc90aae")
 			(effects
 				(font
 					(size 1 1)
@@ -105701,6 +109484,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3a28d284-3771-4f51-8ca4-f2a674dd610e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/7a8b23ec-02e6-4d4d-a0e6-50993eb3a0b2")
 		(sheetname "/Power/")
@@ -106068,6 +109864,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29046877-fc3b-4ca5-bc07-8d57154dc9c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5291e0bc-5174-49d2-9ca1-ce09d54eb628")
 			(effects
 				(font
 					(size 1 1)
@@ -106492,6 +110301,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d54e544d-0c06-4819-82c2-75d20d73efa1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/1c051e73-1175-469e-a364-cac197036f64/bf89e0b1-f73b-4c01-a64c-89d00f858c9c")
 		(sheetname "/Output 11/")
@@ -106809,6 +110631,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a87ddea-2c81-4adb-bfd0-bd561ecb0520")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0859c806-1811-4d17-9ac8-32bb7716ed9e")
 			(effects
 				(font
 					(size 1 1)
@@ -107158,6 +110993,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f1b36422-c575-48c8-96c4-dea2eb7c0bc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33bcb099-3f4f-4cc8-9cd1-67c9c9b006c6")
 			(effects
 				(font
 					(size 1 1)
@@ -107556,6 +111404,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "699446ba-50db-4875-ad92-5e0e5cb80695")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/701306cc-5c0c-485d-a317-4793f0ccf5e5")
 		(sheetname "/Input 14/")
@@ -107938,6 +111799,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc7eb57e-4a4a-47ce-8bee-5e5aa7c59530")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 8/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
@@ -108303,6 +112177,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea958202-bc9e-4096-b97e-54c891f8822b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/8378359f-2bcc-419a-b6ab-29c71134517c/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 13/")
@@ -108619,6 +112506,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d41cdf1-0853-4cf3-bd48-13f895e011c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "506a5dab-9d47-4fbe-8a0f-f028f1d52739")
 			(effects
 				(font
 					(size 1 1)
@@ -109176,6 +113076,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb6be128-9e69-47cf-8396-bee95822617c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/b606a06b-b643-4772-818d-e16b14d87a19")
 		(sheetname "/Power/")
@@ -109500,6 +113413,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d909c9ce-097b-409b-aa90-c2946eaed4ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/56e70c32-022f-47a3-b38a-e8821f093b1d/ddb8afdb-ec96-4bcf-8309-a9430103acae")
 		(sheetname "/Input 6/")
@@ -109816,6 +113742,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8376ac0-24b8-44e1-8f7d-b6d9da9dbc05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01847c4d-4e30-452b-ae1e-1bc6c8bede6e")
 			(effects
 				(font
 					(size 1 1)
@@ -110239,6 +114178,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "547313ec-6f90-401b-9e9f-f82532c4ece5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b1abb084-6905-4455-9851-355c17c6d763/04bc09f1-efbf-4825-a0df-01be824e4555")
 		(sheetname "/Input 16/")
@@ -110568,6 +114520,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c04c7945-d9c7-40c2-8856-dc615cb14a09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd3384aa-9ffc-4205-9dbe-8cc4b79860da")
 			(effects
 				(font
 					(size 1 1)
@@ -110911,6 +114876,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f5f9288-9c96-4043-8943-c5608444ae0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/032d24f7-dea6-43c8-b36e-6c84d69a3256/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 6/")
@@ -111235,6 +115213,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34c9b901-bea4-446d-859b-69d58ab79982")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/a07ab801-3642-43cf-9d5f-05fdba605733")
 		(sheetname "/Output 4/")
@@ -111551,6 +115542,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dd26663c-ed7a-44aa-98b1-7075485ddae3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c18b3afe-7c8a-4c99-9b9d-6eed54703843")
 			(effects
 				(font
 					(size 1 1)
@@ -111900,6 +115904,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "928680ab-4e4b-4dfd-9e92-33c71510942c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c7ae6c1-4252-4845-b99b-e889c8cc412e")
 			(effects
 				(font
 					(size 1 1)
@@ -112297,6 +116314,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "841222b6-367f-4ad5-a7ee-e14063455707")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/946b081e-f05c-4bcc-8c7e-32876d800f86/eee715cf-44d4-451e-abb7-f3e66b5dfc78")
 		(sheetname "/Output 5/")
 		(sheetfile "eumesmo-io-24v16ch-v6-outputs1-8.kicad_sch")
@@ -112661,6 +116691,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "709d14b6-9f07-4b9f-ba1e-9de166d99efe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/aa800983-0711-41fb-8f77-1479eedd6152")
 		(sheetname "/Input 8/")
@@ -112975,6 +117018,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6c52069c-4324-4dfe-9702-e34f9882769a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34324b56-6044-44a7-b8a5-1bc7b1ba0eca")
 			(effects
 				(font
 					(size 1 1)
@@ -113318,6 +117374,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6443b4e-8e56-481a-a78c-b1c421714b20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7b388c9c-6faf-4681-b727-510de2ea001e/d8958a68-3d5b-4668-9254-3da3f6c3e7f0")
 		(sheetname "/Power/")
@@ -113544,6 +117613,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96c3df0a-b96b-40e8-84c1-07c0e5e0d588")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a14a053f-67e0-4ccc-ae14-41003352f154")
 			(effects
 				(font
 					(size 1 1)
@@ -113795,6 +117877,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2948cb4-38a3-4299-af9f-5328e24a38fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a73d6388-197a-4ec0-b87a-b4c7ae869079")
 			(effects
 				(font
 					(size 1 1)
@@ -114184,6 +118279,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1065ba4-98d2-4ec4-a7d4-4e11cb1fa254")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/13488771-d756-4bf7-9132-6ca3e4a9325a/e267dd32-5af1-42da-bc33-ab303e6c08d4")
 		(sheetname "/Input 8/")
@@ -114540,6 +118648,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df922c34-5ae2-46bf-80cd-e59511d34892")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c76fc600-a423-4f14-bc69-e86c7c986b21/3bc2a5d9-b0fc-4418-8612-48f3afe9125b")
 		(sheetname "/LAN/")
@@ -114882,6 +119003,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c58962de-58c0-4449-bc3a-630c5ee1ea5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c40a2cde-b777-4c88-902d-926d5d54871a")
 			(effects
 				(font
 					(size 1 1)
@@ -115240,6 +119374,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8e865c6-8c2a-4d76-a7df-293dbd774049")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c18103b-3cb9-4808-80f3-79a485ebd981")
 			(effects
 				(font
 					(size 1 1)
@@ -115735,6 +119882,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17f7707f-413c-4870-b269-9cdf710afd49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f18c37e2-98aa-4f90-9189-e898a62cdeb8/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 8/")
@@ -116071,6 +120231,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f148236-6d1a-4ca4-bdd2-3dea7cdc4b22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/471d35a0-0cf0-47e4-a6a8-e70e1f2b0cfb/d426536c-2357-4787-b362-b8a2ac095e97")
 		(sheetname "/Output 4/")
@@ -116394,6 +120567,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b56a880c-dce6-4c76-a0a9-a9322b30c602")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8d06b51d-d00b-4f80-9ffb-ab0131290cf2/d230cbb0-66fc-428e-93da-81cd541babd9")
 		(sheetname "/I2C Devices/")
@@ -116709,6 +120895,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd523cde-3f99-4aff-a352-29a9ce21a008")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f1b8c1f-3b64-4147-af55-466857942fb6")
 			(effects
 				(font
 					(size 1 1)
@@ -117052,6 +121251,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68dfe75e-d3e7-401f-bbc6-aec42f617305")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/58d16e81-f114-46b0-87d3-9324f007724a/d54fa902-0641-4b0f-9ac0-5ae58c1a1e81")
 		(sheetname "/Output 9/")
@@ -117370,6 +121582,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23eea2ed-0fb9-406f-93ad-76fb00b705ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "119be7b2-4329-413b-91c2-9cd280ba5b56")
 			(effects
 				(font
 					(size 1 1)
@@ -117853,6 +122078,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaae8996-a036-4af9-8de2-a649619cb756")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/33bd2dd9-fdba-4639-85e9-44cc18eb8635/184cd11e-e803-4d4f-9064-b5ab2fb7621f")
 		(sheetname "/Input 11/")
@@ -118196,6 +122434,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5ff9fa3-f1ec-412a-9688-afd7b459df77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2a4c84c8-2c75-4932-954a-d172432bb009")
 			(effects
 				(font
 					(size 1 1)
@@ -118560,6 +122811,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d0e9f00-ed08-40d0-a637-b7e7eccf33f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a09dfec7-ec9f-4b94-8882-25d9953ce25d/ca0954d3-205c-4a1d-8c7f-4c89062e3037")
 		(sheetname "/Input 14/")
@@ -118883,12 +123147,25 @@
 				)
 			)
 		)
-		(property "FT Rotation Offset" "180"
+		(property "FT Rotation Offset" "0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2f083b12-4174-4cea-b808-30aeeb54e248")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d63e54c5-16c1-48a9-bec4-0381bf1a2511")
 			(effects
 				(font
 					(size 1 1)
@@ -119238,6 +123515,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8d078ec7-d410-4d63-9a3f-a793b3c9b75e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9256d9d7-8502-46e9-a2b1-223ab83774ed")
 			(effects
 				(font
 					(size 1 1)
@@ -119607,6 +123897,19 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbdbeccb-3d79-47ee-9c97-fe59ceaf5931")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f2a42251-1da5-495a-abaf-29698c5bb0fe/c3de1a15-e428-4673-a40b-7795f5c379bd")
 		(sheetname "/MCU/")
@@ -119923,6 +124226,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1c295275-e45e-4e0f-83a3-95b9fcb8ff00")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3e625a2-5ae6-4c04-85a1-a1e986c19e3b")
 			(effects
 				(font
 					(size 1 1)
