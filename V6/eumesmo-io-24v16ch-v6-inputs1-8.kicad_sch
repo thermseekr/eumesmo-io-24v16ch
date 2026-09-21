@@ -1990,9 +1990,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "I_{LED} = (24V - V_{LED}) / 10k\nI_{LED} = (24V - 2.7V) / 10k\nI_{LED} = 2,13 mA"
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (24V - V_{F}) / R\nI_{LED} = (24V - 1.8V) / 10k\nI_{LED} = 2.22 mA"
 		(exclude_from_sim no)
-		(at 130.81 118.11 0)
+		(at 130.81 123.19 0)
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -2509,6 +2509,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 184.15 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77714e32-3a13-4f81-a94d-8d35152de1c5")
 		)
@@ -2738,6 +2749,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 160.02 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 160.02 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3148,6 +3170,17 @@
 			)
 		)
 		(property "FT Rotation Offset" ""
+			(at 96.52 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 96.52 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -3672,6 +3705,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 207.01 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "93bcff7b-b45f-4f66-ae4f-58894404a474")
 		)
@@ -3966,6 +4010,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 78.74 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 78.74 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4278,6 +4333,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 87.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0aab3e55-e8e8-40d6-b81d-8b712a1e68ba")
 		)
@@ -4343,7 +4409,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EMERALD/0603"
+		(property "Value" "ORANGE/0603"
 			(at 123.19 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4409,7 +4475,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
+		(property "Mfr PN" "19-217/S2C-AL1M2VY/6T"
 			(at 125.73 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4442,7 +4508,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2984266"
+		(property "Vendor PN" "C2987557"
 			(at 125.73 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4453,7 +4519,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2984266"
+		(property "LCSC Part #" "C2987557"
 			(at 123.19 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4465,6 +4531,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 125.73 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 125.73 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -4673,6 +4750,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 143.51 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d843c75c-a0b6-4aff-8092-97e216d044db")
 		)
@@ -4870,6 +4958,17 @@
 				)
 			)
 		)
+		(property "FT Position Offset" ""
+			(at 125.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90aea2eb-6761-49f2-9737-a715847e4510")
 		)
@@ -5057,6 +5156,17 @@
 			)
 		)
 		(property "FT Rotation Offset" "0"
+			(at 134.62 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Position Offset" ""
 			(at 134.62 92.71 90)
 			(hide yes)
 			(show_name no)
