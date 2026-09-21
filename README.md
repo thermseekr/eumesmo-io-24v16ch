@@ -14,12 +14,14 @@ The board is compatible with the SP7 DIN rail system from [Metaltex](https://www
 | **Microcontroller** | ESP32-WROOM-32UE-N16 (16MB flash) |
 | **Inputs** | 16x 24VDC (optoisolated, active high) |
 | **Outputs** | 16x 24VDC (open collector, 350mA cont. / 500mA peak) |
-| **Peripherals** | 1-Wire Interface, GPIO or 1-Wire master |
-| **Form Factor** | Metaltex DIN Rail Compatible |
+| **Peripherals** | 1-Wire Interface, via GPIO or 1-Wire master |
+| **Form Factor** | Metaltex DIN Rail holder Compatible |
 
-![eumesmo-io-24v16ch V6.0](https://github.com/thermseekr/eumesmo-io-24v16ch/raw/main/V6/eumesmo-io-24v16ch-v6.2.png)
+![eumesmo-io-24v16ch V6.4](https://github.com/thermseekr/eumesmo-io-24v16ch/raw/main/V6/eumesmo-io-24v16ch-v6.4.png)
 
 ## VERSION HISTORY
+
+V6.4 - 2026/09/09 - Ethernet connector moved inwards the PCB to eliminate interference with the PCB holder. Tracks between connector and LAN8710A rerouted for improved EMC. LEDs switched from white to emerald green.
 
 V6.3 - 2026/07/02 - Added CPU health LED.
 
