@@ -125486,7 +125486,7 @@
 			)
 		)
 	)
-	(gr_text "SUPORTES PCI METALTEX SP7\n1x pé macho  9 mm\n1x pé fêmea 9 mm\n2x espaçadores 45 mm\n1x espaçador 20 mm\nComprimento total 128 mm\nLargura da placa 67,8 mm"
+	(gr_text "SUPORTES PCI METALTEX SP7\nMÓDULO EUMESMO-IO-24V16CH-V6\n1x pé macho  9 mm\n1x pé fêmea 9 mm\n2x espaçadores 45 mm\n1x espaçador 20 mm\nComprimento total 128 mm\nLargura da placa 67,8 mm"
 		(at 89.77 137.08 0)
 		(layer "Cmts.User")
 		(uuid "00000000-0000-0000-0000-000060513392")
