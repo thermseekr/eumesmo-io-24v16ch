@@ -21,7 +21,7 @@ The board is compatible with the SP7 DIN rail system from [Metaltex](https://www
 
 ## VERSION HISTORY
 
-V6.4 - 2026/09/22 - Ethernet connector and connection blocks moved inwards the PCB to eliminate interference with the PCB holder. Tracks between connector and LAN8710A rerouted for improved EMC. LEDs switched from white to ambar.
+V6.4 - 2026/09/22 - Ethernet connector and terminal blocks moved inwards the PCB to eliminate interference with the PCB holder and make space for the pin descriptions. Tracks between connector and LAN8710A rerouted for improved EMC. LEDs switched from white to orange. Replaced TPS3823-33 for a TPS3820-33 as the LAN8710A reset monitor: the 200ms delay was too much and by the time the chip came up, the ESP32 had already finished booting and had not found it.
 
 V6.3 - 2026/07/02 - Added CPU health LED.
 
