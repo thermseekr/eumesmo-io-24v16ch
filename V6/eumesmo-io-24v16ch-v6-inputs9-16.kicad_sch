@@ -2519,6 +2519,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 134.62 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fc276ad3-edc2-4fb5-8429-fb13a461164d")
 		)
@@ -2716,6 +2727,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 87.63 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 87.63 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -2925,6 +2947,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 96.52 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 96.52 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -3240,6 +3273,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 143.51 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 143.51 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3670,6 +3714,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 125.73 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3188518d-307d-4cd2-acca-a481dcc5df23")
 		)
@@ -3868,6 +3923,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 160.02 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 160.02 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -4181,6 +4247,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 207.01 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 207.01 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4612,6 +4689,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 78.74 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4e711f09-4672-4e63-8c7a-26421feb7dca")
 		)
@@ -4927,6 +5015,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 184.15 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77714e32-3a13-4f81-a94d-8d35152de1c5")
 		)
@@ -5167,6 +5266,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 125.73 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 125.73 102.87 0)
 			(hide yes)
 			(show_name no)

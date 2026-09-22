@@ -879,7 +879,7 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

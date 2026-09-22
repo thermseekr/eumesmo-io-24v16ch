@@ -3810,6 +3810,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 342.9 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -3898,6 +3909,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 342.9 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 342.9 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -4073,6 +4095,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 383.54 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 383.54 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -4272,6 +4305,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 287.02 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 287.02 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -4558,6 +4602,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 130.81 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "726d19ab-991f-4c8d-906d-d00cd2d2a68a")
 		)
@@ -4680,6 +4735,17 @@
 				)
 			)
 		)
+		(property "Package" ""
+			(at 342.9 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "eumesmo-io-24v16ch-v6"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
@@ -4768,6 +4834,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 342.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 342.9 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4942,6 +5019,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 36.83 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 36.83 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -5218,6 +5306,17 @@
 			)
 		)
 		(property "FT Position Offset" ""
+			(at 36.83 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
 			(at 36.83 259.08 0)
 			(hide yes)
 			(show_name no)
