@@ -21,7 +21,7 @@ The board is compatible with the SP7 DIN rail system from [Metaltex](https://www
 
 ## VERSION HISTORY
 
-V6.4 - 2026/09/09 - Ethernet connector moved inwards the PCB to eliminate interference with the PCB holder. Tracks between connector and LAN8710A rerouted for improved EMC. LEDs switched from white to emerald green.
+V6.4 - 2026/09/22 - Ethernet connector and connection blocks moved inwards the PCB to eliminate interference with the PCB holder. Tracks between connector and LAN8710A rerouted for improved EMC. LEDs switched from white to ambar.
 
 V6.3 - 2026/07/02 - Added CPU health LED.
 
