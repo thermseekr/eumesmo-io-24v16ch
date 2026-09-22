@@ -2857,7 +2857,7 @@
 		)
 		(uuid "98e32088-dce2-464d-86fa-765c336ee6a6")
 	)
-	(text "ATTENTION!\n\nDIP SWITCH SW2:\nONLY ONE SWITCH CAN BE ON AT ANY GIVEN TIME.\n\nJUMPER JP1:\nMUST BE CLOSED TO CONNECT 1-WIRE INPUT TO GPIO16\nWHEN THE SWITCH AND DS2482 ARE NOT POPULATED.\n"
+	(text "ATTENTION!\n\nDIP SWITCH SW2:\nONLY ONE SWITCH CAN BE ON AT ANY GIVEN TIME.\n\nJUMPER JP1:\nBRIDGED BY DEFAULT. MUST BE CUT TO USE DS2482 WHEN POPULATED.\n"
 		(exclude_from_sim no)
 		(at 233.68 215.9 0)
 		(effects
@@ -6445,10 +6445,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "343a0a4c-a7af-4831-827e-8974172f64cb")
 		(property "Reference" "C30"
@@ -6983,7 +6983,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -7008,7 +7008,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 245.11 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -8824,10 +8824,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8bb693e4-c722-4d34-91f1-7ed93ecd3862")
 		(property "Reference" "C31"
@@ -11142,10 +11142,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "ccdc5578-acee-438b-9e52-662934b5e15c")
 		(property "Reference" "SW2"
 			(at 245.11 176.53 0)
@@ -11606,10 +11606,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d9806628-845c-4a8e-97c4-7fc4509bba71")
 		(property "Reference" "U11"
