@@ -8618,7 +8618,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Uniroyal"
+		(property "Mfr" "YAGEO"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8629,7 +8629,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0402WGF6800TCE"
+		(property "Mfr PN" "RC0402FR-07680RL"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8651,7 +8651,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C25130"
+		(property "Vendor PN" "C137948"
 			(at 240.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8673,7 +8673,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25130"
+		(property "LCSC Part #" "C137948"
 			(at 240.03 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
